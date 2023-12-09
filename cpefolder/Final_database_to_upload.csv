@@ -1,0 +1,101 @@
+Problem,Contest,Index,Tags,solvedCount
+Add One,1513.0,C,"dp, matrices",12207
+Pipes,1234.0,C,"dp, implementation",11847
+Sleeping Schedule,1324.0,E,"dp, implementation",11653
+Little Dima and Equation,460.0,B,"brute force, implementation, math, number theory",11347
+Gardener and Tree,1593.0,E,"brute force, data structures, dfs and similar, greedy, implementation, trees",10793
+RPG Protagonist,1400.0,B,"brute force, greedy, math",10666
+Palindrome Basis,1673.0,C,"brute force, dp, math, number theory",10595
+Pull Your Luck,1804.0,C,"brute force, greedy, math, number theory",10526
+Three Blocks Palindrome (easy version),1335.0,E1,"binary search, brute force, data structures, dp, two pointers",10124
+Guess the K-th Zero (Easy version),1520.0,F1,"binary search, interactive",10113
+Range Update Point Query,1791.0,F,"binary search, brute force, data structures",10075
+Fault-tolerant Network,1651.0,C,"brute force, data structures, implementation",10037
+Tenzing and Balls,1842.0,C,dp,9859
+Tenzing and Balls,1842.0,C,dp,9840
+Data Structures Fan,1872.0,E,"binary search, bitmasks, data structures, dp",9765
+Data Structures Fan,1872.0,E,"binary search, bitmasks, data structures, dp",9762
+Cover it!,1176.0,E,"dfs and similar, dsu, graphs, shortest paths, trees",9702
+Tracking Segments,1843.0,E,"binary search, brute force, data structures, two pointers",9495
+To Become Max,1856.0,C,"binary search, brute force, data structures, dp",9469
+To Become Max,1856.0,C,"binary search, brute force, data structures, dp",9466
+The Walkway,1858.0,B,"brute force, dp, greedy, math, number theory",9462
+The Walkaway,1858.0,B,"brute force, dp, greedy, math, number theory",9462
+Sending a Sequence Over the Network,1741.0,E,dp,9346
+Road Optimization,1625.0,C,dp,9263
+Pride,891.0,A,"brute force, dp, greedy, math, number theory",9180
+Geometric Progression,567.0,C,"binary search, data structures, dp",9006
+Military Problem,1006.0,E,"dfs and similar, graphs, trees",8952
+Even-Odd XOR,1722.0,G,"bitmasks, constructive algorithms, greedy",8947
+Counting Rectangles,1722.0,E,"brute force, data structures, dp, implementation",8934
+Vasya and Multisets,1051.0,C,"brute force, dp, greedy, implementation, math",8920
+Program,1473.0,D,"data structures, dp, implementation, strings",8891
+ABBC or BACB,1873.0,G,"constructive algorithms, greedy",8873
+Sum and Product,1857.0,F,"binary search, data structures, math",8859
+Arpa’s obvious problem and Mehrdad’s terrible solution,742.0,B,"brute force, math, number theory",8770
+Planar Reflections,1498.0,C,"brute force, data structures, dp",8763
+By Elevator or Stairs?,1249.0,E,"dp, shortest paths",8742
+Vasya and Arrays,1036.0,D,"greedy, two pointers",8601
+Divide and Summarize,1461.0,D,"binary search, brute force, data structures, divide and conquer, implementation, sortings",8569
+Binary String Copying,1849.0,C,"binary search, brute force, data structures, hashing, strings",8529
+Binary String Copying,1849.0,C,"binary search, brute force, data structures, hashing, strings",8527
+Barcode,225.0,C,"dp, matrices",8387
+New Year and Domino,611.0,C,"dp, implementation",8192
+Kolya and Movie Theatre,1862.0,E,"constructive algorithms, data structures, greedy",8116
+Kolya and Movie Theatre,1862.0,E,"constructive algorithms, data structures, greedy",8112
+MEX and Increments,1619.0,E,"constructive algorithms, data structures, dp, greedy, implementation, math, sortings",8099
+Queries for the Array,1861.0,C,"data structures, dfs and similar, implementation, strings, trees",8087
+Math,1062.0,B,"greedy, math, number theory",8043
+Moamen and XOR,1557.0,C,"bitmasks, combinatorics, dp, math, matrices",7975
+Queries for the Array,1861.0,C,"data structures, dfs and similar, implementation, strings, trees",7898
+Bargain,1422.0,C,"combinatorics, dp, math",7854
+Mentors,978.0,F,"binary search, data structures, implementation",7621
+Walking Between Houses,1015.0,D,"constructive algorithms, greedy",7545
+Radio Towers,1452.0,D,"combinatorics, dp, math",7543
+Weakened Common Divisor,1025.0,B,"brute force, greedy, number theory",7497
+Star sky,835.0,C,"dp, implementation",7436
+Equate Multisets,1702.0,F,"constructive algorithms, data structures, greedy, math, number theory",7374
+Coloring Trees,711.0,C,dp,7370
+Serval and Toxel's Arrays,1789.0,C,"combinatorics, dp, implementation, math",7332
+Serval and Toxel's Arrays,1789.0,C,"combinatorics, dp, implementation, math",7332
+Knowledge Cards,1740.0,D,"constructive algorithms, data structures",7145
+Knowledge Cards,1740.0,D,"constructive algorithms, data structures",7145
+Paint the Digits,1209.0,C,"constructive algorithms, greedy, implementation",7068
+Exam in BerSU (hard version),1185.0,C2,"brute force, data structures, greedy, math",6993
+Flexible String,1778.0,C,"bitmasks, brute force, strings",6948
+The Number Of Good Substrings,1217.0,C,"binary search, bitmasks, brute force",6921
+Almost Identity Permutations,888.0,D,"combinatorics, dp, math",6830
+Same Count One,1774.0,D,"brute force, constructive algorithms, greedy, implementation, two pointers",6777
+Array Painting,1849.0,D,"constructive algorithms, greedy, two pointers",6763
+Array Painting,1849.0,D,"constructive algorithms, greedy, two pointer",6763
+Colorful Bricks,1081.0,C,"combinatorics, dp, math",6733
+Bubble Sort Graph,340.0,D,"binary search, data structures, dp",6719
+Smallest Word,1043.0,C,"constructive algorithms, greedy, implementation",6600
+Li Hua and Chess,1797.0,C,"constructive algorithms, greedy, interactive",6586
+Bicolored RBS,1167.0,D,"constructive algorithms, greedy",6543
+Path Prefixes,1714.0,G,"binary search, data structures, dfs and similar, trees",6518
+Glass Carving,527.0,C,"binary search, data structures, implementation",6471
+Gambling,1692.0,H,"data structures, dp, greedy, math",6395
+Ilya and Escalator,518.0,D,"combinatorics, dp, math, probabilities",6378
+New Year and the Permutation Concatenation,1091.0,D,"combinatorics, dp, math",6372
+Berland Fair,1073.0,D,"binary search, brute force, data structures, greedy",6163
+Shurikens,1413.0,D,"data structures, greedy, implementation",6149
+Valiant's New Map,1731.0,D,"binary search, brute force, data structures, dp, two pointers",6138
+Optimal Subsequences (Easy Version),1227.0,D1,"data structures, greedy",6007
+Two Hundred Twenty One (easy version),1562.0,D1,"data structures, dp, math",5999
+Don't Blame Me,1829.0,H,"bitmasks, combinatorics, dp, math",5964
+Array Optimization by Deque,1579.0,E2,"data structures, greedy",5943
+Kuro and Walking Route,979.0,C,"dfs and similar, trees",5885
+Cyclic Rotation,1672.0,D,"constructive algorithms, greedy, implementation, two pointers",5699
+Matrix Cascade,1864.0,D,"brute force, constructive algorithms, data structures, dp, greedy, math",5669
+Matrix Cascade,1864.0,D,"brute force, constructive algorithms, data structures, dp, greedy, math",5668
+Sum of XOR Functions,1879.0,D,"bitmasks, combinatorics, divide and conquer, dp, math",5287
+Sum of XOR Functions,1879.0,D,"bitmasks, combinatorics, divide and conquer, dp, math",5285
+Stars Drawing (Easy Edition),1015.0,E1,"brute force, dp, greedy",5124
+Green and Black Tea,746.0,D,"constructive algorithms, greedy, math",4860
+Squares and not squares,898.0,E,"constructive algorithms, greedy",4378
+Sea Battle,729.0,D,"constructive algorithms, greedy, math",3554
+Three Logos,581.0,D,"bitmasks, brute force, constructive algorithms, geometry, implementation, math",3205
+Correct Bracket Sequence Editor,670.0,E,"data structures, dsu, strings",3081
+Comments,747.0,E,"dfs and similar, expression parsing, implementation, strings",1911
+Guard Duty (easy),958.0,E1,"brute force, geometry, greedy, math",1420

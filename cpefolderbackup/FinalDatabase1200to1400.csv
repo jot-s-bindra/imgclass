@@ -1,0 +1,2499 @@
+Problem,Contest,Index,Tags,solvedCount
+Decreasing String,1886,C,"implementation, strings",7693
+Hard Design,1884,E,"greedy, implementation, math",123
+Perfect Square,1881,C,"brute force, implementation",12104
+Interactive Game with Coloring,1879,E,"brute force, constructive algorithms, dfs and similar, graphs, implementation, interactive, trees",989
+wxhtzdy ORO Tree,1878,G,"binary search, bitmasks, brute force, data structures, dfs and similar, implementation, trees",841
+Jellyfish and Game,1874,A,"brute force, games, greedy, implementation",12985
+1D Eraser,1873,D,"greedy, implementation, two pointers",26698
+Target Practice,1873,C,"implementation, math",27124
+Short Sort,1873,A,"brute force, implementation",37148
+Selling a Menagerie,1872,F,"dfs and similar, dsu, graphs, implementation, math",4746
+The Corridor or There and Back Again,1872,B,"greedy, implementation",23666
+Prefix Purchase,1870,D,"greedy, implementation, sortings",5470
+Colorful Table,1870,C,"binary search, data structures, dp, implementation, math, two pointers",9117
+LIS?,1868,F,"data structures, greedy, implementation",41
+Flower-like Pseudotree,1868,D,"constructive algorithms, graphs, greedy, implementation, trees",197
+Travel Plan,1868,C,"combinatorics, dp, implementation, math, trees",923
+Candy Party (Hard Version),1868,B2,"bitmasks, constructive algorithms, dp, greedy, implementation, math",1983
+Candy Party (Easy Version),1868,B1,"bitmasks, constructive algorithms, graphs, greedy, implementation, math",5484
+Fill in the Matrix,1868,A,"constructive algorithms, implementation",9625
+Cyclic Operations,1867,D,"brute force, constructive algorithms, dfs and similar, graphs, greedy, implementation",4537
+Keen Tree Calculation,1866,K,"binary search, data structures, dp, geometry, graphs, implementation, trees",326
+Magic Square,1864,G,"combinatorics, constructive algorithms, implementation",221
+Exotic Queries,1864,F,"data structures, implementation, sortings",1145
+Increasing and Decreasing,1864,A,"constructive algorithms, greedy, implementation, math",18495
+MEX Repetition,1863,C,"implementation, math",11810
+Channel,1863,A,"greedy, implementation",15995
+Flower City Fence,1862,C,"binary search, data structures, implementation, sortings",17530
+Gift Carpet,1862,A,"dp, greedy, implementation, strings",27409
+Non-Intersecting Subpermutations,1861,E,"combinatorics, dp, implementation, math",1403
+Queries for the Array,1861,C,"data structures, dfs and similar, implementation, strings, trees",8062
+Evaluate RBS,1860,F,"data structures, geometry, implementation, math, sortings",230
+Maximum Rounding,1857,B,"greedy, implementation, math",20349
+PermuTree (hard version),1856,E2,"bitmasks, dfs and similar, dp, fft, greedy, implementation, math, trees",1122
+Good Arrays,1856,B,"implementation, math",20799
+Tales of a Sort,1856,A,implementation,24244
+Vlad and the Mountains,1851,G,"binary search, data structures, dsu, graphs, implementation, sortings, trees, two pointers",2474
+Prefix Permutation Sums,1851,D,"implementation, math",12682
+The Third Letter,1850,H,"dfs and similar, dsu, graphs, greedy, implementation",6267
+The Morning Star,1850,G,"combinatorics, data structures, geometry, implementation, math, sortings",9374
+We Were Both Children,1850,F,"brute force, implementation, math, number theory",14339
+Cardboard for Pictures,1850,E,"binary search, geometry, implementation, math",17644
+Balanced Round,1850,D,"brute force, greedy, implementation, sortings",26503
+Word on the Paper,1850,C,"implementation, strings",34643
+Ten Words of Wisdom,1850,B,"implementation, sortings",35087
+To My Critics,1850,A,"implementation, sortings",40883
+Morning Sandwich,1849,A,"implementation, math",25155
+Vika and Stone Skipping,1848,E,"brute force, implementation, math, number theory",659
+Vika and the Bridge,1848,B,"binary search, data structures, greedy, implementation, math, sortings",11446
+Triangle Platinum?,1847,E,"brute force, combinatorics, implementation, interactive, math, probabilities",289
+Professor Higashikata,1847,D,"data structures, dsu, greedy, implementation, strings",3243
+Rudolph and Mimic,1846,F,"constructive algorithms, implementation, interactive",2465
+Rudolf and Snowflakes (hard version),1846,E2,"binary search, brute force, implementation, math",5845
+Rudolf and Snowflakes (simple version),1846,E1,"brute force, implementation, math",13556
+Rudolph and Tic-Tac-Toe,1846,B,"brute force, implementation, strings",24128
+Rudolph and Cut the Rope ,1846,A,"implementation, math",29271
+Boxes and Balls,1845,E,"dp, implementation, math",1140
+Come Together,1845,B,"geometry, implementation, math",19148
+Forbidden Integer,1845,A,"constructive algorithms, implementation, math, number theory",21684
+Tree Weights,1844,G,"bitmasks, constructive algorithms, data structures, dfs and similar, implementation, math, matrices, number theory, trees",538
+Particles,1844,C,"dp, greedy, implementation, math",13387
+Keep it Beautiful,1841,B,implementation,18806
+Character Blocking,1840,E,"data structures, hashing, implementation",6700
+Cipher Shifer,1840,A,"implementation, strings, two pointers",30042
+The Good Array,1839,A,"greedy, implementation, math",16227
+Editorial for Two,1837,F,"binary search, data structures, greedy, implementation",1810
+Destroyer,1836,A,"implementation, sortings",18514
+Good Graph,1835,F,"bitmasks, dfs and similar, graph matchings, graphs, implementation",99
+k-th equality,1835,A,"brute force, implementation, math",6695
+MEX of LCM,1834,E,"binary search, data structures, implementation, math, number theory",1735
+Survey in Class,1834,D,"brute force, data structures, greedy, implementation, sortings",3793
+Ksyusha and Chinchilla,1833,G,"constructive algorithms, dfs and similar, dp, dsu, greedy, implementation, trees",4243
+Ira and Flamenco,1833,F,"combinatorics, constructive algorithms, data structures, implementation, math, sortings, two pointers",5759
+Musical Puzzle,1833,A,"implementation, strings",29567
+Red-Blue Operations (Hard Version),1832,D2,"binary search, constructive algorithms, greedy, implementation, math",1665
+Red-Blue Operations (Easy Version),1832,D1,"binary search, greedy, implementation, math",2585
+Contrast Value,1832,C,"greedy, implementation",15536
+Hits Different,1829,G,"data structures, dp, implementation, math",8001
+The Lakes,1829,E,"dfs and similar, dsu, graphs, implementation",15808
+Gold Rush,1829,D,"brute force, dfs and similar, dp, implementation",20969
+Mr. Perfectly Fine,1829,C,"bitmasks, greedy, implementation",24339
+Blank Space,1829,B,implementation,33757
+Love Story,1829,A,"implementation, strings",37829
+Walk the Runway,1826,E,"bitmasks, brute force, data structures, dp, graphs, implementation, sortings",1357
+Trust Nobody,1826,A,"brute force, greedy, implementation, sortings",13048
+LuoTianyi and the Show,1824,A,"greedy, implementation",9847
+TubeTube Feed,1822,A,"brute force, implementation",22155
+Tear It Apart,1821,C,"brute force, implementation, math, strings",12049
+Yura's New Name,1820,A,"implementation, strings",15392
+The Fox and the Complete Tree Traversal,1819,C,"constructive algorithms, dp, implementation, math, trees",1245
+The Butcher,1819,B,"geometry, greedy, implementation, sortings, two pointers",3112
+Politics,1818,A,"greedy, implementation",12058
+Toy Machine,1817,D,"constructive algorithms, games, implementation",579
+Sum Graph,1815,B,"brute force, constructive algorithms, graphs, implementation, interactive, shortest paths, trees",2578
+Coins,1814,A,"implementation, math",22344
+Colour Vision,1812,G,"*special, implementation",404
+Was it Rated?,1812,B,"*special, *special, *special, brute force, implementation",4715
+Is It Flower?,1811,F,"dfs and similar, graphs, implementation",1537
+Umka and a Long Flight,1811,D,"constructive algorithms, implementation, math",6317
+Conveyor Belts,1811,B,"implementation, math",18376
+Traveling in Berland,1809,F,"binary search, data structures, graphs, greedy, implementation",639
+Two Tanks,1809,E,"binary search, dp, implementation, math",713
+Garland,1809,A,implementation,22523
+Unlucky Numbers,1808,C,"brute force, dp, greedy, implementation",3224
+Lucky Numbers,1808,A,"brute force, implementation",15923
+Subsequence Addition (Hard Version),1807,G2,"bitmasks, dp, greedy, implementation, sortings",15770
+Subsequence Addition (Easy Version),1807,G1,"brute force, data structures, dp, greedy, implementation, sortings",16282
+Bouncy Ball,1807,F,"brute force, dfs and similar, implementation",5242
+Interview,1807,E,"binary search, implementation, interactive",10410
+Odd Queries,1807,D,"data structures, implementation",24089
+Find and Replace,1807,C,"greedy, implementation, strings",26877
+Plus or Minus,1807,A,implementation,45284
+Survival of the Weakest (easy version),1805,F1,"binary search, brute force, implementation, math, sortings",682
+Flow Control,1804,G,"data structures, dsu, implementation",164
+Accommodation,1804,D,"brute force, dp, greedy, implementation",4148
+Vaccination,1804,B,"greedy, implementation",13043
+Settlement of Guinea Pigs,1802,B,"greedy, implementation, math",12065
+Likes,1802,A,"greedy, implementation",14999
+Symmetree,1800,G,"dfs and similar, hashing, implementation, trees",1694
+Is It a Cat?,1800,A,"implementation, strings",27436
+City Union,1799,E,"constructive algorithms, dfs and similar, dsu, geometry, greedy, implementation, math",1055
+Recent Actions,1799,A,"data structures, greedy, implementation, math",10957
+Three Sevens,1798,B,"brute force, data structures, greedy, implementation",14762
+Showstopper,1798,A,"greedy, implementation, sortings",18571
+Li Hua and Tree,1797,D,"brute force, data structures, dfs and similar, dp, implementation, trees",3270
+Li Hua and Maze,1797,A,"constructive algorithms, flows, graphs, greedy, implementation",15864
+Asterisk-Minor Template,1796,B,"implementation, strings",15094
+Typical Interview Problem,1796,A,"brute force, implementation, strings",17906
+Tea Tasting,1795,C,"binary search, data structures, implementation",10150
+Two Towers,1795,A,"brute force, implementation, strings",22357
+Labeling the Tree with Distances,1794,E,"data structures, dp, greedy, hashing, implementation, trees",874
+Rebrending,1793,F,"brute force, data structures, divide and conquer, implementation",1108
+Moscow Gorillas,1793,D,"binary search, dp, greedy, implementation, math, two pointers",5232
+Prepend and Append,1791,C,"implementation, two pointers",35460
+Following Directions,1791,B,"geometry, implementation",38148
+Codeforces Checking,1791,A,"implementation, strings",46227
+Premutation,1790,C,"brute force, implementation, math",21344
+Polycarp and the Day of Pi,1790,A,"implementation, math, strings",33499
+Serval and Brain Power,1789,F,"bitmasks, brute force, dp, greedy, implementation, strings",443
+Serval and Music Game,1789,E,"brute force, dp, implementation, math, number theory",698
+Serval and Shift-Shift-Shift,1789,D,"bitmasks, brute force, constructive algorithms, implementation",1465
+Serval and Toxel's Arrays,1789,C,"combinatorics, dp, implementation, math",7327
+Serval and Inversion Magic,1789,B,"brute force, implementation, strings, two pointers",14998
+"XOR, Tree, and Queries",1788,F,"bitmasks, constructive algorithms, dfs and similar, dsu, graphs, greedy, implementation, trees",692
+Sum of Two Numbers,1788,B,"constructive algorithms, greedy, implementation, math, probabilities",17751
+One and Two,1788,A,"brute force, implementation, math",24367
+Inverse Transformation,1787,F,"constructive algorithms, implementation, math",591
+Game on Axis,1787,D,"combinatorics, dfs and similar, dsu, graphs, implementation",3055
+Alternating Deck (hard version),1786,A2,implementation,10869
+Non-alternating Deck (easy version),1786,A1,implementation,13207
+Weighed Tree Radius,1783,G,"data structures, divide and conquer, implementation, trees",371
+Different Arrays,1783,D,"brute force, dp, implementation",3796
+Rectangle Shrinking,1781,E,"binary search, brute force, data structures, greedy, implementation, two pointers",1223
+Equal Frequencies,1781,C,"brute force, constructive algorithms, greedy, implementation, sortings, strings",6345
+Flip Flop Sum,1778,A,"greedy, implementation",22886
+The Human Equation,1775,E,"greedy, implementation",2768
+Gardener and the Capybaras (easy version),1775,A1,"brute force, constructive algorithms, implementation",18823
+Magician and Pigs (Hard Version),1774,F2,"binary search, brute force, data structures, implementation",566
+Magician and Pigs (Easy Version),1774,F1,"brute force, data structures, implementation",959
+Same Count One,1774,D,"brute force, constructive algorithms, greedy, implementation, two pointers",6771
+Interactive Factorial Guessing,1773,I,"brute force, games, implementation, interactive",413
+BinCoin,1773,B,"binary search, divide and conquer, hashing, implementation, probabilities, trees",660
+Gaining Rating,1772,G,"binary search, greedy, implementation, math, sortings, two pointers",1180
+Copy of a Copy of a Copy,1772,F,"constructive algorithms, dfs and similar, graphs, implementation, sortings",2033
+Matrix Rotation,1772,B,"brute force, implementation",26751
+A+B?,1772,A,implementation,38688
+Hossam and a Letter,1771,E,"brute force, dp, implementation, two pointers",613
+Koxia and Game,1770,D,"constructive algorithms, data structures, dfs and similar, dsu, flows, games, graph matchings, graphs, implementation",3433
+Копирование файлов I,1769,B1,"*special, brute force, implementation, math",1250
+Elemental Decompress,1768,C,"constructive algorithms, greedy, implementation, sortings",12649
+Cut the Triangle,1767,A,implementation,19683
+Hamiltonian Wall,1766,C,"dp, implementation",12133
+Notepad#,1766,B,implementation,18677
+Extremely Round,1766,A,"brute force, implementation",21247
+Project Manager,1765,L,"brute force, data structures, implementation",512
+Infinite Chess,1765,I,"implementation, shortest paths",156
+Hospital Queue,1765,H,"binary search, graphs, greedy, implementation",1066
+Valid Bitonic Permutations,1763,D,"combinatorics, dp, implementation, math, number theory",1839
+Incinerate,1763,B,"binary search, brute force, data structures, implementation, math, sortings",12858
+Make Array Good,1762,B,"constructive algorithms, implementation, number theory, sortings",15300
+Elimination of a Ring,1761,B,"constructive algorithms, greedy, implementation",12314
+Challenging Valleys,1760,D,"implementation, two pointers",20384
+Advantage,1760,C,"data structures, implementation, sortings",31830
+Atilla's Favorite Problem,1760,B,"greedy, implementation, strings",37467
+Medium Number,1760,A,"implementation, sortings",45870
+Yes-Yes?,1759,A,"implementation, strings",26935
+Complementary XOR,1750,C,"constructive algorithms, implementation",8703
+Maximum Substring,1750,B,"brute force, greedy, implementation",15654
+Indirect Sort,1750,A,"constructive algorithms, implementation, math",16376
+Number Game,1749,C,"binary search, data structures, games, greedy, implementation",12246
+Cowardly Rooks,1749,A,"greedy, implementation",21492
+Zero-Sum Prefixes,1748,C,"brute force, data structures, dp, greedy, implementation",9476
+Diverse Substrings,1748,B,"brute force, implementation, strings",13107
+Olympiad Training,1746,G,"binary search, data structures, dp, flows, geometry, implementation, sortings",85
+Permutation Operations,1746,C,"constructive algorithms, greedy, implementation, math",11553
+Traffic Light,1744,C,"binary search, implementation, two pointers",21114
+Even-Odd Increments ,1744,B,"implementation, math",21953
+Number Replacement,1744,A,"greedy, implementation",25304
+Password,1743,A,"brute force, combinatorics, implementation, math",25024
+Stripes,1742,C,implementation,27904
+Increasing,1742,B,"greedy, implementation, sortings",39655
+Sum,1742,A,implementation,53554
+Compare T-Shirt Sizes,1741,A,"implementation, implementation, strings",28318
+Immobile Knight,1739,A,implementation,21699
+Glory Addicts,1738,A,"greedy, implementation, sortings",13110
+Ela and the Wiring Wizard,1737,D,"brute force, dp, graphs, greedy, implementation, shortest paths",1735
+Ela and Crickets,1737,C,"constructive algorithms, games, implementation, math",5248
+Ela's Fitness and the Luxury Number,1737,B,"binary search, implementation, math",8715
+Ela Sorting Books,1737,A,"greedy, implementation, strings",9631
+Equal Binary Subsequences,1736,D,"constructive algorithms, geometry, greedy, implementation, strings",2256
+Phase Shift,1735,C,"dfs and similar, dsu, graphs, greedy, implementation, strings",9043
+Balance (Easy version),1732,D1,"brute force, data structures, implementation, number theory",7502
+Sheikh (Hard Version),1732,C2,"binary search, bitmasks, brute force, greedy, implementation, two pointers",2266
+Ugu,1732,B,"brute force, dp, greedy, implementation",13197
+Bestie,1732,A,"brute force, combinatorics, constructive algorithms, implementation, math, number theory",13649
+Meeting on the Line,1730,B,"binary search, geometry, greedy, implementation, math, ternary search",10783
+Colored Balls: Revisited,1728,A,"brute force, greedy, implementation, sortings",23836
+Mainak and the Bleeding Polygon,1726,H,"binary search, geometry, implementation, math",72
+L-shapes,1722,F,"dfs and similar, implementation",6024
+Counting Rectangles,1722,E,"brute force, data structures, dp, implementation",8931
+Word Game,1722,C,"data structures, implementation",27153
+Colourblindness,1722,B,implementation,38972
+Spell Check,1722,A,implementation,41245
+Deadly Laser,1721,B,implementation,20534
+Image,1721,A,"greedy, implementation",25710
+Misha and Paintings,1720,E,"constructive algorithms, data structures, greedy, implementation, math",693
+Corners,1720,C,"greedy, implementation",15435
+Fighting Tournament,1719,C,"binary search, data structures, implementation, two pointers",12116
+Impressionism,1718,E,"constructive algorithms, graphs, implementation, math",95
+Fibonacci Strings,1718,B,"greedy, implementation, math, number theory",2683
+Madoka and The First Session,1717,F,"constructive algorithms, flows, graph matchings, graphs, implementation",472
+Madoka and Underground Competitions,1717,B,"constructive algorithms, implementation",14069
+Robot in a Hallway,1716,C,"data structures, dp, greedy, implementation, ternary search",3821
+Monoblock,1715,C,"combinatorics, data structures, implementation, math",7913
+Build a Tree and That Is It,1714,F,"constructive algorithms, implementation, trees",2849
+Remove Prefix,1714,B,"data structures, greedy, implementation",27539
+Everyone Loves to Sleep,1714,A,"implementation, math",26582
+Traveling Salesman Problem,1713,A,"geometry, greedy, implementation",21158
+Wonderful Permutation,1712,A,"greedy, implementation",23239
+Rain,1710,B,"binary search, brute force, data structures, geometry, greedy, implementation, math",2246
+Recover an RBS,1709,C,"constructive algorithms, greedy, implementation, strings",8015
+Also Try Minecraft,1709,B,"data structures, dp, implementation",20868
+Three Doors,1709,A,"brute force, greedy, implementation, math",27925
+Difference Array,1707,B,"brute force, data structures, implementation, sortings",5257
+Doremy's IQ,1707,A,"binary search, constructive algorithms, greedy, implementation",12038
+Qpwoeirut And The City,1706,C,"dp, flows, greedy, implementation",13563
+Mark and His Unfinished Essay,1705,C,"brute force, implementation",12323
+Mark the Dust Sweeper,1705,B,"constructive algorithms, greedy, implementation",21101
+Count Seconds,1704,E,"brute force, constructive algorithms, dp, graphs, implementation, math",2118
+Magical Array,1704,D,"constructive algorithms, hashing, implementation, math",4640
+Virus,1704,C,"greedy, implementation, sortings",12963
+Luke is a Foodie,1704,B,"brute force, greedy, implementation",14898
+Mirror Grid,1703,E,implementation,15164
+Cypher,1703,C,"brute force, implementation, strings",31827
+ICPC Balloons,1703,B,"data structures, implementation",40144
+YES or YES?,1703,A,"brute force, implementation, strings",53194
+Points,1701,F,"combinatorics, data structures, implementation, math, matrices",813
+Schedule Management,1701,C,"binary search, greedy, implementation, two pointers",14359
+Grass Field,1701,A,implementation,24978
+Palindromic Numbers ,1700,B,"constructive algorithms, implementation, math",17493
+Equal Reversal,1698,F,"constructive algorithms, graphs, implementation, math",516
+Rising Sand,1698,B,"constructive algorithms, greedy, implementation",20297
+Too Many Constraints,1697,F,"2-sat, constructive algorithms, graphs, implementation",417
+Coloring,1697,E,"brute force, combinatorics, constructive algorithms, dp, geometry, graphs, greedy, implementation, math",1080
+awoo's Favorite Problem,1697,C,"binary search, constructive algorithms, data structures, greedy, implementation, strings, two pointers",13137
+Parkway Walk,1697,A,"greedy, implementation",24796
+Maximum Product?,1696,H,"brute force, combinatorics, dp, greedy, implementation, math, two pointers",126
+Fishingprince Plays With Array,1696,C,"constructive algorithms, greedy, implementation, math",10824
+Creep,1694,A,"greedy, implementation",21511
+Binary Deque,1692,E,"binary search, implementation, two pointers",17484
+The Clock,1692,D,"brute force, implementation",17543
+Where's the Bishop?,1692,C,implementation,30253
+Marathon,1692,A,implementation,51126
+Max GEQ Sum,1691,D,"binary search, constructive algorithms, data structures, divide and conquer, implementation, two pointers",5004
+Shoe Shuffling,1691,B,"constructive algorithms, greedy, implementation, two pointers",19721
+Black and White Stripe,1690,D,"implementation, two pointers",23595
+Restoring the Duration of Tasks,1690,C,"data structures, greedy, implementation",24369
+Array Decrements,1690,B,"greedy, implementation",23786
+Lex String,1689,A,"brute force, greedy, implementation, sortings, two pointers",15967
+Cute number,1687,D,"binary search, brute force, data structures, dsu, implementation, math",517
+Linguistics,1685,B,"greedy, implementation, sortings, strings",2969
+Column Swapping,1684,C,"brute force, constructive algorithms, greedy, implementation, sortings",11475
+Circular Spanning Tree,1682,D,"constructive algorithms, implementation, trees",3009
+LIS or Reverse LIS?,1682,C,"constructive algorithms, greedy, implementation, math",13321
+Double Sort,1681,C,"implementation, sortings",16069
+Card Trick,1681,B,"implementation, math",19362
+Robots,1680,B,implementation,17722
+Rooks Defenders,1679,C,"data structures, implementation",9356
+Stone Age Problem,1679,B,"data structures, implementation",15498
+Tokitsukaze and Good 01-String (hard version),1678,B2,"dp, greedy, implementation",6083
+Tokitsukaze and Good 01-String (easy version),1678,B1,implementation,15351
+Tokitsukaze and All Zero Sequence,1678,A,implementation,17595
+Tokitsukaze and Meeting,1677,B,"data structures, implementation, math",3791
+Longest Strike,1676,F,"data structures, greedy, implementation, sortings, two pointers",14427
+X-Sum,1676,D,"brute force, greedy, implementation",21979
+Most Similar Words,1676,C,"brute force, greedy, implementation, implementation, math, strings",26727
+Lucky?,1676,A,implementation,49235
+Vertical Paths,1675,D,"graphs, implementation, trees",11730
+Detective Task,1675,C,implementation,16765
+Make It Increasing,1675,B,"greedy, implementation",22310
+Desktop Rearrangement,1674,F,"data structures, greedy, implementation",4568
+A-B-C Sort,1674,D,"constructive algorithms, implementation, sortings",14860
+Infinite Replacement,1674,C,"combinatorics, implementation, strings",21556
+Cyclic Rotation,1672,D,"constructive algorithms, greedy, implementation, two pointers",5696
+Unequal Array,1672,C,"constructive algorithms, greedy, implementation",12437
+I love AAAB,1672,B,"constructive algorithms, implementation",15162
+Log Chopping,1672,A,"games, implementation, math",15463
+String Building,1671,A,implementation,19738
+Very Suspicious,1670,D,"binary search, brute force, geometry, greedy, implementation, math",4708
+Where is the Pizza?,1670,C,"data structures, dfs and similar, dsu, graphs, implementation, math",8882
+Dorms War,1670,B,"brute force, implementation, strings",11992
+Prof. Slim,1670,A,"greedy, implementation, sortings",14898
+Fall Down,1669,G,"dfs and similar, implementation",15765
+Colorful Stamp,1669,D,implementation,19423
+Odd/Even Increments,1669,C,"greedy, greedy, implementation, math",30158
+Triple,1669,B,"implementation, sortings",35628
+Division?,1669,A,implementation,48221
+Direction Change,1668,A,"implementation, math",15870
+Yin Yang,1667,F,implementation,77
+Fancy Stack,1666,F,"combinatorics, dp, implementation",994
+MinimizOR,1665,E,"bitmasks, brute force, data structures, divide and conquer, greedy, implementation, two pointers",1294
+Are You Safe?,1663,E,"*special, implementation",509
+Pōja Verdon,1663,C,"*special, implementation, math",5418
+Mike's Sequence,1663,B,"*special, divide and conquer, implementation, math",3197
+Circular Maze,1662,O,"brute force, dfs and similar, graphs, implementation",1135
+Ice Cream Shop,1662,I,"brute force, implementation, sortings",1760
+Antennas,1662,F,"data structures, dfs and similar, graphs, graphs, implementation, implementation, shortest paths, shortest paths",863
+Evolution of Weasels,1662,D,"greedy, implementation, strings",1497
+Organizing SWERC,1662,A,"brute force, implementation",3851
+Promising String (hard version),1660,F2,"data structures, implementation, math, strings",2438
+Promising String (easy version),1660,F1,"brute force, implementation, math, strings",6598
+Matrix and Shifts,1660,E,"brute force, constructive algorithms, greedy, implementation",6602
+Maximum Product Strikes Back,1660,D,"brute force, implementation, math, two pointers",7540
+Reverse Sort Sum,1659,D,"constructive algorithms, data structures, greedy, implementation, math, two pointers",3663
+Line Empire,1659,C,"binary search, brute force, dp, greedy, implementation, math",8868
+Red Versus Blue,1659,A,"constructive algorithms, greedy, implementation, math",15639
+Gojou and Matrix Game,1658,E,"data structures, dp, games, hashing, implementation, math, number theory, sortings",931
+Marin and Photoshoot,1658,A,"constructive algorithms, implementation, math",19803
+Bracket Sequence Deletion,1657,C,"greedy, implementation",16022
+Alice and the Cake,1654,C,"data structures, greedy, implementation, sortings",12585
+Maximum Cake Tastiness,1654,A,"brute force, greedy, implementation, sortings",18063
+Fault-tolerant Network,1651,C,"brute force, data structures, implementation",10034
+Playoff,1651,A,implementation,24863
+Vitaly and Advanced Useless Algorithms,1650,F,"dp, greedy, implementation",1286
+Rescheduling the Exam,1650,E,"binary search, data structures, greedy, implementation, math, sortings",3809
+Twist the Permutation,1650,D,"brute force, constructive algorithms, implementation, math",12135
+Weight of the System of Nested Segments,1650,C,"greedy, hashing, implementation, sortings",15528
+Deletions of Two Adjacent Letters,1650,A,"implementation, strings",32469
+Game of Ball Passing,1649,B,"greedy, implementation",12286
+Game,1649,A,implementation,14999
+Air Reform,1648,E,"data structures, dfs and similar, divide and conquer, dsu, graphs, implementation, trees",335
+Serious Business,1648,D,"data structures, divide and conquer, dp, implementation, shortest paths",695
+Tyler and Strings,1648,C,"combinatorics, data structures, implementation",2723
+Madoka and the Elegant Gift,1647,B,"brute force, constructive algorithms, graphs, implementation",14622
+Madoka and Math Dad,1647,A,"implementation, math",22024
+Playing Around the Table,1646,F,"constructive algorithms, greedy, implementation",358
+Weight the Tree,1646,D,"constructive algorithms, dfs and similar, dp, implementation, trees",3295
+Expand the Path,1644,E,"brute force, combinatorics, data structures, implementation, math",2796
+Cross Coloring,1644,D,"data structures, implementation, math",6689
+Increase Subarray Sums,1644,C,"brute force, dp, greedy, implementation",12822
+Anti-Fibonacci Permutation,1644,B,"brute force, constructive algorithms, implementation",20168
+Doors and Keys,1644,A,implementation,26190
+Repetitions Decoding,1641,B,"constructive algorithms, implementation, sortings",3589
+Colorful Operations,1638,E,"brute force, data structures, implementation",1666
+Big Brush,1638,D,"constructive algorithms, data structures, greedy, implementation",3879
+Best Pair,1637,E,"binary search, brute force, implementation",3028
+Andrew and Stones,1637,C,"greedy, implementation",16722
+Fibonacci Additions,1634,F,"brute force, data structures, hashing, implementation, math",1378
+ABC,1632,A,implementation,27858
+Grid Xor,1628,C,"constructive algorithms, greedy, implementation, interactive, math",2940
+Meximum Array,1628,A,"binary search, constructive algorithms, greedy, implementation, math, two pointers",14572
+Not Splitting,1627,F,"geometry, graphs, greedy, implementation, shortest paths",530
+Not Escaping,1627,E,"data structures, dp, implementation, shortest paths, two pointers",2077
+Not Shading,1627,A,"constructive algorithms, implementation",23293
+Monsters And Spells,1626,C,"binary search, data structures, dp, greedy, implementation, math, two pointers",10201
+Binary Spiders,1625,D,"bitmasks, data structures, implementation, math, sortings, trees",1850
+Masha-forgetful,1624,E,"brute force, constructive algorithms, dp, hashing, implementation, strings",3720
+Make AP,1624,B,"implementation, math",31574
+Robot Cleaner Revisit,1623,D,"implementation, math, probabilities",1306
+Game on Ranges,1623,B,"brute force, dfs and similar, implementation, sortings",13577
+Robot Cleaner,1623,A,"brute force, implementation, math",19481
+Strange Instructions,1621,F,"data structures, greedy, implementation",504
+New School,1621,E,"binary search, data structures, dp, greedy, implementation, sortings",1644
+Integers Shop,1621,B,"data structures, greedy, implementation",12481
+Replace the Numbers,1620,E,"constructive algorithms, data structures, dsu, implementation",7215
+BA-String,1620,C,"brute force, dp, greedy, implementation, math",6034
+Equal or Not Equal,1620,A,"constructive algorithms, dsu, implementation",20693
+MEX and Increments,1619,E,"constructive algorithms, data structures, dp, greedy, implementation, math, sortings",8097
+Wrong Addition,1619,C,implementation,19316
+Squares and Cubes,1619,B,"implementation, math",28788
+Square String?,1619,A,"implementation, strings",44094
+Reverse,1618,F,"bitmasks, constructive algorithms, dfs and similar, implementation, math, strings",3776
+Missing Bigram,1618,B,implementation,21581
+Christmas Chocolates,1617,E,"dfs and similar, dp, games, graphs, implementation, math, number theory, shortest paths, trees",771
+Too Many Impostors (hard version),1617,D2,"constructive algorithms, implementation, interactive, math",1614
+Too Many Impostors (easy version),1617,D1,"constructive algorithms, implementation, interactive",4339
+Representative Edges,1616,C,"brute force, geometry, implementation, math",11418
+Integer Diversity,1616,A,implementation,21927
+Absent Remainder,1613,B,"greedy, implementation, sortings",20290
+Long Comparison,1613,A,"implementation, math",22988
+AmShZ and G.O.A.T.,1610,E,"binary search, brute force, greedy, implementation, math",1552
+Social Network,1609,D,"dsu, graphs, greedy, implementation, trees",6521
+Complex Market Analysis,1609,C,"binary search, dp, implementation, number theory, schedules, two pointers",9145
+William the Vigilant,1609,B,"implementation, strings",11257
+Divide and Multiply,1609,A,"greedy, implementation, math, number theory",15909
+MEX counting,1608,F,"combinatorics, dp, implementation",452
+The Cells on the Paper,1608,E,"binary search, implementation, sortings",401
+Robot on the Board 2,1607,F,"brute force, dfs and similar, graphs, implementation",1812
+Robot on the Board 1,1607,E,implementation,8654
+Linear Keyboard,1607,A,"implementation, strings",34274
+Red-Blue Matrix,1606,D,"brute force, constructive algorithms, implementation, sortings",1353
+Update Files,1606,B,"greedy, implementation, math",17562
+Array Equalizer,1605,E,"binary search, greedy, implementation, math, number theory, sortings, two pointers",950
+Treelabeling,1605,D,"bitmasks, constructive algorithms, dfs and similar, games, greedy, implementation, trees",2698
+Dominant Character,1605,C,"brute force, greedy, implementation, strings",15314
+"October 18, 2017",1603,F,"combinatorics, dp, implementation, math",178
+Divine Array,1602,B,"constructive algorithms, implementation",13417
+Two Subsequences,1602,A,implementation,18371
+Staircases,1598,E,"brute force, combinatorics, data structures, dfs and similar, dp, implementation, math",2146
+Training Session,1598,D,"combinatorics, data structures, geometry, implementation, math",8028
+Delete Two Elements,1598,C,"data structures, dp, implementation, math, two pointers",18689
+Groups,1598,B,"brute force, implementation",15341
+Computer Game,1598,A,"brute force, dfs and similar, dp, implementation",21873
+Rubik's Cube Coloring (hard version),1594,E2,"brute force, dp, implementation, math, trees",1381
+Red-Black Number,1593,F,"dfs and similar, dp, implementation, math, meet-in-the-middle",2201
+Gardener and Tree,1593,E,"brute force, data structures, dfs and similar, greedy, implementation, trees",10789
+Hemose in ICPC ?,1592,D,"binary search, dfs and similar, implementation, interactive, math, number theory, trees",2060
+Life of a Flower,1585,A,implementation,17030
+Train Maintenance,1580,C,"brute force, data structures, implementation",1556
+Portal,1580,A,"brute force, data structures, dp, greedy, implementation",3417
+Ticks,1579,C,"greedy, implementation",9814
+Shifting Sort,1579,B,"implementation, sortings",17327
+Kingdom of Islands,1578,K,"brute force, graphs, implementation",324
+Higher Order Functions,1578,H,"implementation, strings",1885
+Easy Scheduling,1578,E,"implementation, math",3590
+Knitting Batik,1575,K,"implementation, math",593
+Jeopardy of Dropped Balls,1575,J,"binary search, brute force, dsu, implementation",3403
+Coloring,1574,E,"combinatorics, constructive algorithms, implementation, math",825
+The Strongest Build,1574,D,"binary search, brute force, data structures, dfs and similar, graphs, greedy, hashing, implementation",4178
+Book,1572,A,"binary search, brute force, data structures, dp, graphs, implementation, sortings",7995
+Sweepstake,1571,D,"*special, brute force, constructive algorithms, implementation, math",298
+Rhyme,1571,C,"*special, implementation",340
+Playoff Restoration,1569,E,"bitmasks, brute force, hashing, implementation, meet-in-the-middle",751
+Inconvenient Pairs,1569,D,"binary search, data structures, implementation, sortings, two pointers",4083
+Balanced Substring,1569,A,implementation,24727
+One-Four Overload,1567,F,"2-sat, constructive algorithms, dfs and similar, dsu, graphs, implementation",693
+Expression Evaluation Error,1567,D,"constructive algorithms, greedy, implementation, math",4272
+Domino Disaster,1567,A,"implementation, strings",28625
+Four Vertices,1566,G,"constructive algorithms, data structures, graphs, greedy, implementation, shortest paths",312
+Points Movement,1566,F,"data structures, dp, greedy, implementation, sortings",864
+Seating Arrangements (hard version) ,1566,D2,"data structures, greedy, implementation, sortings, two pointers",7502
+Scenes From a Memory,1562,B,"brute force, constructive algorithms, implementation, math, number theory",18705
+Simply Strange Sort,1561,A,"brute force, implementation, sortings",16295
+Polycarp and String Transformation,1560,E,"binary search, implementation, sortings, strings",7282
+Infinity Table,1560,C,"implementation, math",25455
+Dislike of Threes,1560,A,implementation,50875
+Compressed Bracket Sequence,1556,C,"brute force, implementation",5490
+Take Your Places!,1556,B,implementation,12174
+Coin Rows,1555,C,"brute force, constructive algorithms, dp, implementation",19723
+Mikasa,1554,C,"binary search, bitmasks, greedy, implementation",8120
+Reverse String,1553,B,"brute force, dp, hashing, implementation, strings",13359
+Domino (hard version),1551,D2,"constructive algorithms, implementation, math",2541
+Excellent Arrays,1550,D,"binary search, combinatorics, constructive algorithms, implementation, math, sortings, two pointers",1731
+Manhattan Subarrays,1550,C,"brute force, geometry, greedy, implementation",9536
+Gregor and the Pawn Game,1549,B,"dfs and similar, dp, flows, graph matchings, graphs, greedy, implementation",22980
+Air Conditioners,1547,E,"data structures, dp, implementation, shortest paths, sortings, two pointers",12825
+Alphabetical Strings,1547,B,"greedy, implementation, strings",25179
+Shortest Path with Obstacle,1547,A,"implementation, math",28803
+Need for Pink Slips,1543,C,"bitmasks, brute force, dfs and similar, implementation, math, probabilities",5019
+Priority Queue,1542,D,"combinatorics, dp, implementation, math, ternary search",2434
+Pleasant Pairs,1541,B,"brute force, implementation, math, number theory",24296
+Pretty Permutations,1541,A,"constructive algorithms, greedy, implementation",28186
+Game with Cards,1539,E,"binary search, constructive algorithms, data structures, dp, greedy, implementation",863
+PriceFixed,1539,D,"binary search, greedy, implementation, sortings, two pointers",10813
+Love Song,1539,B,"dp, implementation, strings",22882
+Funny Substrings,1538,E,"data structures, hashing, implementation, matrices, strings",2676
+Erase and Extend (Easy Version),1537,E1,"binary search, brute force, dp, greedy, hashing, implementation, string suffix structures, strings, two pointers",11506
+Challenging Cliffs,1537,C,"constructive algorithms, greedy, implementation, math",24576
+Omkar and Medians,1536,D,"data structures, greedy, implementation",4413
+String Distance,1535,F,"binary search, brute force, data structures, hashing, implementation, strings",397
+Playoff Tournament,1535,D,"data structures, dfs and similar, dp, implementation, trees",7117
+Unstable String,1535,C,"binary search, dp, greedy, implementation, strings, two pointers",15364
+Fair Playoff,1535,A,"brute force, implementation",42456
+Histogram Ugliness,1534,B,"greedy, implementation, math",12087
+Colour the Flag,1534,A,"brute force, implementation",12442
+Sweets,1533,C,"*special, data structures, implementation",448
+Nearest Point Function,1533,B,"*special, implementation",739
+Travel to Bertown,1533,A,"*special, implementation, math",979
+Uniform String,1532,C,"*special, implementation",630
+Зингер | color,1531,A,"*special, implementation",1436
+Putting Plates,1530,B,"constructive algorithms, implementation",15404
+MEX Tree,1527,D,"combinatorics, dfs and similar, implementation, math, trees",1711
+Sequence Pair Weight,1527,C,"hashing, implementation, math",12496
+Robot Collisions,1525,C,"data structures, greedy, implementation, sortings",4138
+Compression and Expansion,1523,C,"brute force, data structures, greedy, implementation, trees",8370
+Game of Life,1523,A,implementation,13287
+Nastia Plays with a Tree,1521,D,"constructive algorithms, data structures, dfs and similar, dp, dsu, greedy, implementation, trees",1685
+To Go Or Not To Go?,1520,G,"brute force, dfs and similar, graphs, greedy, implementation, shortest paths",3246
+Do Not Be Distracted!,1520,A,"brute force, implementation",46422
+Maximum Sum of Products,1519,D,"brute force, dp, implementation, math, two pointers",13767
+Group Photo,1517,E,"binary search, data structures, implementation, two pointers",916
+Fillomino 2,1517,C,"constructive algorithms, dfs and similar, greedy, implementation",12617
+Cut and Stick,1514,D,"binary search, data structures, greedy, implementation, sortings",3871
+Array and Peaks,1513,A,"constructive algorithms, implementation",18885
+Education,1512,F,"brute force, dp, greedy, implementation",5603
+A-B Palindrome,1512,C,"constructive algorithms, implementation, strings",18644
+Almost Rectangle,1512,B,implementation,24533
+Spy Detected!,1512,A,"brute force, implementation",53503
+Yet Another Card Deck,1511,C,"brute force, data structures, implementation, trees",20637
+King's Task,1510,K,"brute force, graphs, implementation",5062
+Almost Sorted,1508,B,"binary search, combinatorics, constructive algorithms, implementation",3652
+Binary Literature,1508,A,"constructive algorithms, greedy, implementation, strings, two pointers",5781
+Restoring the Permutation,1506,E,"constructive algorithms, implementation",12046
+Double-ended Strings,1506,C,"brute force, implementation, strings",22038
+Partial Replacement,1506,B,"greedy, implementation",19409
+Encoded message,1505,G,"*special, implementation",267
+Cakewalk,1505,E,"*special, greedy, implementation, shortest paths",1672
+Fibonacci Words,1505,C,"*special, implementation",6079
+DMCA,1505,B,"*special, implementation, number theory",5790
+Is it rated - 2,1505,A,"*special, implementation, interactive",13343
+Flip the Bits,1504,B,"constructive algorithms, greedy, implementation, math",16261
+Balance the Cards,1503,F,"constructive algorithms, data structures, divide and conquer, geometry, graphs, implementation",115
+Napoleon Cake,1501,B,"dp, implementation, sortings",17753
+Alexey and Train,1501,A,implementation,11436
+Going Home,1500,A,"brute force, hashing, implementation, math",8242
+Binary Removals,1499,B,"brute force, dp, greedy, implementation",19681
+Bananas in a Microwave,1498,D,"dfs and similar, dp, graphs, implementation",2181
+Qingshan and Daniel,1495,E,"brute force, data structures, greedy, implementation",370
+Delete The Edges,1494,F,"brute force, constructive algorithms, dfs and similar, graphs, implementation",313
+1D Sokoban,1494,C,"binary search, dp, greedy, implementation, two pointers",5062
+Berland Crossword,1494,B,"bitmasks, brute force, greedy, implementation",13481
+ABC String,1494,A,"bitmasks, brute force, implementation",19863
+GCD of an Array,1493,D,"brute force, data structures, hashing, implementation, math, number theory, sortings, two pointers",4475
+Planet Lapituletti,1493,B,"brute force, implementation",11317
+Almost Fault-Tolerant Database,1492,E,"brute force, constructive algorithms, dfs and similar, greedy, implementation",1139
+Pekora and Trampoline,1491,C,"brute force, data structures, dp, greedy, implementation",7459
+K-th Largest Value,1491,A,"brute force, greedy, implementation",17782
+Permutation Transformation,1490,D,"dfs and similar, divide and conquer, implementation",18017
+Cheap Dinner,1487,E,"brute force, data structures, graphs, greedy, implementation, sortings, two pointers",4158
+Minimum Ties,1487,C,"brute force, constructive algorithms, dfs and similar, graphs, greedy, implementation, math",13069
+Arena,1487,A,"implementation, sortings",25625
+Shifting Stacks,1486,A,"greedy, implementation",23962
+Replace and Keep Sorted,1485,B,"dp, implementation, math",16064
+Playlist,1482,D,"data structures, dsu, implementation, shortest paths",3626
+Basic Diplomacy,1482,C,"brute force, constructive algorithms, greedy, implementation",8833
+Restore Modulo,1482,B,"implementation, math",8802
+AB Graph,1481,D,"brute force, constructive algorithms, graphs, greedy, implementation",4231
+New Colony,1481,B,"brute force, greedy, implementation",18630
+The Great Hero,1480,B,"greedy, implementation, sortings",16578
+Painting the Array II,1479,B2,"constructive algorithms, data structures, dp, greedy, implementation",3751
+Painting the Array I,1479,B1,"constructive algorithms, data structures, dp, greedy, implementation",6494
+Nezzar and Symmetric Array,1478,C,"implementation, math, sortings",9128
+Journey,1476,D,"dfs and similar, dp, dsu, implementation",8100
+Array Destruction,1474,C,"brute force, constructive algorithms, data structures, greedy, implementation, sortings",11592
+Program,1473,D,"data structures, dp, implementation, strings",8889
+Replacing Elements,1473,A,"greedy, implementation, math, sortings",31705
+Strange List,1471,B,"brute force, greedy, implementation, math",18727
+Strange Permutation,1470,E,"binary search, combinatorics, data structures, dp, graphs, implementation, two pointers",251
+Building a Fence,1469,C,"dp, greedy, implementation, two pointers",10107
+Waste Sorting,1468,N,"greedy, implementation",7624
+Similar Sets,1468,M,"data structures, graphs, implementation",810
+The Robot,1468,K,"brute force, implementation",4775
+Plane Tiling,1468,I,"geometry, implementation, math",462
+Berpizza,1468,C,"data structures, implementation",6962
+Hills And Valleys,1467,B,"brute force, implementation",10421
+Plan of Lectures,1463,E,"constructive algorithms, dfs and similar, dsu, graphs, implementation, sortings, trees",1347
+Busy Robot,1463,C,implementation,5275
+Close Tuples (hard version),1462,E2,"binary search, combinatorics, implementation, math, sortings, two pointers",8633
+Last Year's Substring,1462,B,"dp, implementation, strings",25792
+Favorite Sequence,1462,A,"implementation, two pointers",37633
+Water Level,1461,E,"brute force, graphs, greedy, implementation, math",2004
+Divide and Summarize,1461,D,"binary search, brute force, data structures, divide and conquer, implementation, sortings",8569
+Find the Spruce,1461,B,"brute force, dp, implementation",12043
+Four Points,1455,E,"brute force, constructive algorithms, flows, geometry, greedy, implementation, math, ternary search",1380
+Sequence Transformation,1454,C,"greedy, implementation",20188
+Unique Bid Auction,1454,B,implementation,26902
+Triangles,1453,C,"greedy, implementation",5881
+Suffix Operations,1453,B,"constructive algorithms, implementation",12721
+Cancel the Trains,1453,A,implementation,21780
+String Equality,1451,C,"dp, greedy, hashing, implementation, strings",14614
+Non-Substring Subsequence,1451,B,"dp, greedy, implementation, strings",18531
+Multithreading (Hard Version),1450,H2,"combinatorics, implementation, math",102
+Rating Compression,1450,D,"binary search, data structures, greedy, implementation, two pointers",5123
+Identify the Operations,1442,B,"combinatorics, data structures, dsu, greedy, implementation",4168
+Buy the String,1440,A,"implementation, math",19265
+Greedy Shopping,1439,C,"binary search, data structures, divide and conquer, greedy, implementation",1580
+Binary Table (Hard Version),1439,A2,"constructive algorithms, graphs, greedy, implementation",4819
+Binary Table (Easy Version),1439,A1,"constructive algorithms, implementation",8966
+Specific Tastes of Andre ,1438,A,"constructive algorithms, implementation",18860
+Make It Increasing,1437,E,"binary search, constructive algorithms, data structures, dp, implementation",3196
+Yet Another Bookshelf,1433,B,"greedy, implementation",27313
+Boring Apartments,1433,A,"implementation, math",45804
+Black Friday,1431,C,"*special, implementation",674
+Polycarp and the Language of Gods,1431,B,"*special, implementation, two pointers",871
+Numbers on Whiteboard,1430,C,"constructive algorithms, data structures, greedy, implementation, math",21988
+Barrels,1430,B,"greedy, implementation, sortings",18857
+Bouncing Boomerangs,1428,D,"constructive algorithms, greedy, implementation",4296
+Belted Rooms,1428,B,"graphs, implementation",13763
+Unshuffling a Deck,1427,D,"constructive algorithms, implementation",3295
+Chess Cheater,1427,B,"greedy, implementation, sortings",10415
+Symmetric Matrix,1426,B,implementation,19776
+Floor Number,1426,A,"implementation, math",41737
+Excitation of Atoms,1425,E,"greedy, implementation",876
+Minlexes,1422,E,"dp, greedy, implementation, strings",702
+Nice Matrix,1422,B,"greedy, implementation, math",13865
+Swedish Heroes,1421,E,"brute force, dp, implementation",645
+Hexagons,1421,D,"brute force, constructive algorithms, greedy, implementation, math, shortest paths",3973
+Putting Bricks in the Wall,1421,B,"constructive algorithms, implementation",12754
+Pokémon Army (hard version),1420,C2,"data structures, divide and conquer, dp, greedy, implementation",4325
+Rain of Fire,1419,F,"binary search, data structures, dfs and similar, dsu, graphs, implementation",455
+Decryption,1419,E,"constructive algorithms, implementation, math, number theory",3045
+Killjoy,1419,C,"greedy, implementation, math",14314
+Stairs,1419,B,"brute force, constructive algorithms, greedy, implementation, math",15537
+Digit Game,1419,A,"games, greedy, implementation",18832
+Trash Problem,1418,D,"data structures, implementation",4036
+Showing Off,1416,F,"flows, graph matchings, greedy, implementation",229
+Graph and Queries,1416,D,"data structures, dsu, graphs, implementation, trees",1618
+k-Amazing Numbers,1416,A,"binary search, data structures, implementation, two pointers",11197
+Bouncing Ball,1415,C,"brute force, dp, implementation",10282
+Shurikens,1413,D,"data structures, greedy, implementation",6147
+Perform Easily,1413,C,"binary search, brute force, dp, implementation, sortings, two pointers",5381
+A New Technique,1413,B,implementation,11452
+Grime Zoo,1411,D,"brute force, greedy, implementation, strings",2332
+In-game Chat,1411,A,implementation,19829
+Searchlights,1408,D,"binary search, brute force, data structures, dp, implementation, sortings, two pointers",4022
+Discrete Acceleration,1408,C,"binary search, dp, implementation, math, two pointers",8374
+Maximum Product,1406,B,"brute force, dp, greedy, implementation, sortings",21006
+Subset Mex,1406,A,"greedy, implementation, math",20364
+Array Cancellation,1405,B,"constructive algorithms, implementation",20170
+Balanced Bitstring,1404,A,"implementation, strings",14224
+Chess Rush,1403,C,"*special, combinatorics, dp, implementation, math",40
+Fancy Fence,1402,A,"*special, data structures, dsu, implementation, math, sortings",1062
+Divide Square,1401,E,"data structures, geometry, implementation, sortings",2067
+Maximum Distributed Tree,1401,D,"dfs and similar, dp, greedy, implementation, math, number theory, sortings, trees",8516
+Binary String To Subsequences,1399,D,"constructive algorithms, data structures, greedy, implementation",16929
+Two Types of Spells,1398,E,"binary search, data structures, greedy, implementation, math, sortings",2110
+Monster Invaders,1396,C,"dp, greedy, implementation",2293
+Twilight and Ancient Scroll (harder version),1393,E2,"dp, hashing, implementation, string suffix structures, strings, two pointers",293
+Twilight and Ancient Scroll (easier version),1393,E1,"dp, hashing, implementation, string suffix structures, strings",319
+Rarity and New Dress,1393,D,"dfs and similar, dp, implementation, shortest paths",3683
+Applejack and Storages,1393,B,"constructive algorithms, data structures, greedy, implementation",15810
+Omkar and Waterslide,1392,C,"greedy, implementation",17795
+Omkar and Infinity Clock,1392,B,"implementation, math",18073
+505,1391,D,"bitmasks, brute force, constructive algorithms, dp, greedy, implementation",4750
+Fix You,1391,B,"brute force, greedy, implementation",24909
+Segment Intersections,1389,D,"brute force, greedy, implementation, math",3909
+Captain Flint and Treasure,1388,D,"data structures, dfs and similar, graphs, greedy, implementation, trees",5910
+Columns Swaps,1385,G,"2-sat, dfs and similar, dsu, graphs, implementation",1229
+Removing Leaves,1385,F,"data structures, greedy, implementation, trees",2134
+a-Good String,1385,D,"bitmasks, brute force, divide and conquer, dp, implementation",17446
+Koa and the Beach (Hard Version),1384,B2,"constructive algorithms, dp, greedy, implementation",2391
+Mastermind,1381,C,"constructive algorithms, graph matchings, greedy, implementation, sortings, two pointers",1356
+Prefix Flip (Hard Version),1381,A2,"constructive algorithms, data structures, implementation, strings, two pointers",12443
+Merging Towers,1380,E,"data structures, dsu, implementation, trees",1814
+Berserk And Fireball,1380,D,"constructive algorithms, greedy, implementation, math, two pointers",4488
+Create The Teams,1380,C,"brute force, dp, greedy, implementation, sortings",18886
+Acacius and String,1379,A,"brute force, implementation, strings",11236
+Cyclic Shifts Sorting,1374,F,"brute force, constructive algorithms, implementation, sortings",1222
+Reading Books (hard version),1374,E2,"data structures, greedy, implementation, sortings, ternary search, two pointers",872
+Maximum Sum on Even Positions,1373,D,"divide and conquer, dp, greedy, implementation",14356
+Donut Shops,1373,A,"greedy, implementation, math",24561
+Omkar and Completion,1372,A,"constructive algorithms, implementation",30617
+Raging Thunder,1371,F,"data structures, divide and conquer, implementation",484
+Grid-00100,1371,D,"constructive algorithms, greedy, implementation",12564
+A Cookie for You,1371,C,"greedy, implementation, math",19565
+Odd-Even Subsequence,1370,D,"binary search, dp, dsu, greedy, implementation",8680
+Maximum GCD,1370,A,"greedy, implementation, math, number theory",44931
+DeadLee,1369,E,"data structures, dfs and similar, greedy, implementation, sortings",1962
+AccurateLee,1369,B,"greedy, implementation, strings",23064
+Lamps on a Circle,1368,F,"games, implementation, interactive, math",806
+C+=,1368,A,"brute force, greedy, implementation, math",34272
+Task On The Board,1367,D,"constructive algorithms, greedy, implementation, sortings",7755
+Short Substrings,1367,A,"implementation, strings",51096
+Swaps Again,1365,F,"constructive algorithms, implementation, sortings",4190
+Solve The Maze,1365,D,"constructive algorithms, dfs and similar, dsu, graphs, greedy, implementation, shortest paths",15073
+Rotation Matching,1365,C,"constructive algorithms, data structures, greedy, implementation",21318
+Trouble Sort,1365,B,"constructive algorithms, implementation",24990
+Matrix Game,1365,A,"games, greedy, implementation",23063
+Ehab's Last Corollary,1364,D,"constructive algorithms, dfs and similar, graphs, greedy, implementation, trees",3861
+Guess The Maximums,1363,D,"binary search, implementation, interactive, math",3722
+Subsequence Hate,1363,B,"implementation, strings",21925
+Odd Selection,1363,A,"brute force, implementation, math",32527
+Johnny and Ancient Computer,1362,A,implementation,21447
+Johnny and New Toy,1361,F,"data structures, implementation, math",128
+Johnny and James,1361,D,"greedy, implementation, math, trees",299
+Johnny and Grandmaster,1361,B,"greedy, implementation, math, sortings",3325
+Polygon,1360,E,"dp, graphs, implementation, shortest paths",23300
+Yet Another Yet Another Task,1359,D,"data structures, dp, implementation, two pointers",8536
+New Theatre Square,1359,B,"brute force, dp, greedy, implementation, two pointers",26205
+Tasty Cookie,1358,F,"binary search, constructive algorithms, greedy, implementation",419
+Are You Fired?,1358,E,"constructive algorithms, data structures, greedy, implementation",2006
+The Best Vacation,1358,D,"binary search, brute force, greedy, implementation, two pointers",7778
+Count Triangles,1355,C,"binary search, implementation, math, two pointers",9874
+Sequence with Digits,1355,A,"brute force, implementation, math",24459
+Ternary String,1354,B,"binary search, dp, implementation, two pointers",27440
+Special Elements,1352,E,"brute force, implementation, two pointers",17736
+"Alice, Bob and Candies",1352,D,implementation,23209
+Sum of Round Numbers,1352,A,"implementation, math",63538
+Skier,1351,C,"data structures, implementation",7965
+Square?,1351,B,"brute force, implementation, math",15740
+A+B (Trial Problem),1351,A,implementation,21207
+Orac and Game of Life,1349,C,"dfs and similar, graphs, implementation, shortest paths",4129
+Phoenix and Science,1348,D,"binary search, constructive algorithms, greedy, implementation, math",8241
+Restore the Permutation by Sorted Segments,1343,F,"brute force, constructive algorithms, data structures, greedy, implementation",1192
+Nastya and Door,1341,B,"greedy, implementation",18507
+Nastya and Strange Generator,1340,A,"brute force, data structures, greedy, implementation",13005
+Filling Diamonds,1339,A,"brute force, dp, implementation, math",29891
+Kana and Dragon Quest game,1337,B,"greedy, implementation, math",31675
+Anti-Sudoku,1335,D,"constructive algorithms, implementation",25694
+Two Teams Composing,1335,C,"binary search, greedy, implementation, sortings",31753
+Minimum Euler Cycle,1334,D,"constructive algorithms, graphs, greedy, implementation",6844
+Level Statistics,1334,A,"implementation, math",22180
+Kate and imperfection,1333,F,"greedy, implementation, math, number theory, sortings, two pointers",3824
+Challenges in school №41,1333,D,"brute force, constructive algorithms, games, graphs, greedy, implementation, sortings",3576
+Eugene and an array,1333,C,"binary search, data structures, implementation, two pointers",11799
+Kind Anton,1333,B,"greedy, implementation",20903
+K-Complete Word,1332,C,"dfs and similar, dsu, greedy, implementation, strings",15054
+Exercising Walk,1332,A,"greedy, implementation, math",18871
+Jordan Smiley,1331,E,"*special, dfs and similar, geometry, implementation",1177
+Again?,1331,D,"*special, implementation",11757
+Dreamoon Likes Permutations,1330,B,"implementation, math",13540
+Dreamoon and Ranking Collection,1330,A,implementation,18172
+Drazil Likes Heap,1329,C,"constructive algorithms, data structures, greedy, implementation",1447
+Dreamoon Likes Coloring,1329,A,"constructive algorithms, greedy, implementation, math",8566
+Ternary XOR,1328,C,"greedy, implementation",28201
+K-th Beautiful String,1328,B,"binary search, brute force, combinatorics, implementation, math",26933
+Game with Chips,1327,C,"constructive algorithms, implementation",12790
+Maximums,1326,B,"implementation, math",22953
+CopyCopyCopyCopyCopy,1325,B,"greedy, implementation",33504
+Sleeping Schedule,1324,E,"dp, implementation",11642
+Frog Jumps,1324,C,"binary search, data structures, dfs and similar, greedy, implementation",25674
+Yet Another Tetris Problem,1324,A,"implementation, number theory",24637
+Count Subrectangles,1323,B,"binary search, greedy, implementation",8235
+Even Subset Sum Problem,1323,A,"brute force, dp, greedy, implementation",18887
+Nash Matrix,1316,D,"constructive algorithms, dfs and similar, graphs, implementation",3100
+String Modification,1316,B,"brute force, constructive algorithms, implementation, sortings, strings",10758
+Grade Allocation,1316,A,implementation,18050
+Dead Pixel,1315,A,implementation,11567
+Happy New Year,1313,D,"bitmasks, dp, implementation",998
+Different Rules,1313,B,"constructive algorithms, greedy, implementation, math",6305
+Fast Food Restaurant,1313,A,"brute force, greedy, implementation",14901
+Adding Powers,1312,C,"bitmasks, greedy, implementation, math, number theory, ternary search",15255
+Moving Points,1311,F,"data structures, divide and conquer, implementation, sortings",3684
+Add Odd or Subtract Even,1311,A,"greedy, implementation, math",38989
+Double Elimination,1310,B,"dp, implementation",479
+Cow and Treats,1307,E,"binary search, combinatorics, dp, greedy, implementation, math",1042
+Cow and Haybales,1307,A,"greedy, implementation",14535
+Kuroni and the Score Distribution,1305,E,"constructive algorithms, greedy, implementation, math",2766
+Air Conditioner,1304,C,"dp, greedy, implementation, sortings, two pointers",15029
+Longest Palindrome,1304,B,"brute force, constructive algorithms, greedy, implementation, strings",17049
+Number of Components,1303,F,"dsu, implementation",482
+Perfect Keyboard,1303,C,"dfs and similar, greedy, implementation",11499
+Erasing Zeroes,1303,A,"implementation, strings",28549
+Super Jaber,1301,F,"dfs and similar, graphs, implementation, shortest paths",997
+Nanosoft,1301,E,"binary search, data structures, dp, implementation",1161
+Time to Run,1301,D,"constructive algorithms, graphs, implementation",3689
+Three Strings,1301,A,"implementation, strings",18762
+Assigning to Classes,1300,B,"greedy, implementation, sortings",21031
+Non-zero,1300,A,"implementation, math",20375
+Movie Fan,1297,F,"*special, data structures, greedy, implementation, sortings",105
+Cartoons,1297,B,"*special, implementation, sortings",389
+Likes Display,1297,A,"*special, implementation",851
+Yet Another Walking Robot,1296,C,"data structures, implementation",13977
+Obtain a Permutation,1294,E,"greedy, implementation, math",4507
+MEX maximizing,1294,D,"data structures, greedy, implementation, math",10883
+Collecting Packages,1294,B,"implementation, sortings",20591
+ConneR and the A.R.C. Markland-N,1293,A,"binary search, brute force, implementation",14627
+Aroma's Search,1292,B,"brute force, constructive algorithms, geometry, greedy, implementation",5806
+NEKO's Maze Game,1292,A,"data structures, dsu, implementation",12714
+Array Sharpening,1291,B,"greedy, implementation",13459
+Mind Control,1290,A,"brute force, data structures, implementation",8138
+Hyperset,1287,B,"brute force, data structures, implementation",8951
+Angry Students,1287,A,"greedy, implementation",19625
+Harry The Potter,1286,F,"brute force, constructive algorithms, dp, fft, implementation, math",204
+Just Eat It!,1285,B,"dp, greedy, implementation",19551
+New Year and Ascent Sequence,1284,B,"binary search, combinatorics, data structures, dp, implementation, sortings",10352
+New Year and Naming,1284,A,"implementation, strings",17536
+Temporarily unavailable,1282,A,"implementation, math",14206
+Suffix Three,1281,A,implementation,17352
+Beingawesomeism,1280,B,"implementation, math",3620
+Cut and Paste,1280,A,"implementation, math",4964
+Stack of Presents,1279,C,"data structures, implementation",11075
+Verse For Santa,1279,B,"binary search, brute force, implementation",13036
+Berry Jam,1278,C,"data structures, dp, greedy, implementation",7336
+Shuffle Hashing,1278,A,"brute force, implementation, strings",15102
+Let's Play the Words?,1277,D,"data structures, hashing, implementation, math",2867
+"Happy Birthday, Polycarp!",1277,A,implementation,12616
+Yet Another Broken Keyboard,1272,C,"combinatorics, dp, implementation",23327
+Snow Walking Robot,1272,B,"constructive algorithms, greedy, implementation",13080
+Portals,1271,D,"data structures, dp, greedy, implementation, sortings",2575
+Shawarma Tent,1271,C,"brute force, geometry, greedy, implementation",9980
+Long Beautiful Integer,1268,A,"constructive algorithms, greedy, implementation, strings",8101
+Just Arrange the Icons,1267,J,"greedy, implementation, math",2405
+Intriguing Selection,1267,I,"brute force, constructive algorithms, implementation, interactive, sortings",628
+Spaceship Solitaire,1266,E,"data structures, greedy, implementation",1964
+Decreasing Debts,1266,D,"constructive algorithms, data structures, graphs, greedy, implementation, math, two pointers",3293
+Beautiful Numbers,1265,B,"data structures, implementation, math, two pointers",12015
+Beautiful Regional Contest,1264,A,"greedy, implementation",9651
+Editor,1263,E,"data structures, implementation",2464
+PIN Codes,1263,B,"greedy, implementation",10853
+Dominated Subarray,1257,C,"greedy, implementation, sortings, strings, two pointers",15115
+League of Leesins,1255,C,"constructive algorithms, implementation",6366
+Fridge Lockers,1255,B,"graphs, implementation",11360
+Feeding Chicken,1254,A,"constructive algorithms, greedy, implementation",4860
+Silly Mistake,1253,B,"greedy, implementation",10653
+Single Push,1253,A,implementation,17075
+Twin Buildings,1252,H,"greedy, implementation",2513
+Even Path,1252,C,"data structures, implementation",3520
+Data Center,1250,F,"brute force, implementation",6971
+The Coronation,1250,E,"graphs, implementation",776
+Berstagram,1250,A,implementation,3945
+Good Numbers (easy version),1249,C1,"brute force, greedy, implementation",14527
+The World Is Just a Programming Task (Easy Version),1248,D1,"brute force, dp, greedy, implementation",2237
+Chips,1244,F,"constructive algorithms, implementation",1271
+Paint the Tree,1244,D,"brute force, constructive algorithms, dp, graphs, implementation, trees",6921
+Rooms and Staircases,1244,B,"brute force, implementation",14529
+Maximum Square,1243,A,implementation,14943
+"Swiper, no swiping!",1239,F,"graphs, implementation",216
+Turtle,1239,E,"dp, implementation",776
+Queue in the Train,1239,C,"data structures, greedy, implementation",1276
+The World Is Just a Programming Task (Hard Version),1239,B,implementation,932
+Balanced Playlist,1237,D,"binary search, data structures, implementation",3634
+Balanced Removals (Harder),1237,C2,"binary search, constructive algorithms, divide and conquer, greedy, implementation, sortings",4007
+Balanced Rating Changes,1237,A,"implementation, math",17619
+Alice and the Doll,1236,D,"brute force, data structures, greedy, implementation",1616
+Labs,1236,C,"constructive algorithms, greedy, implementation",9588
+Pipes,1234,C,"dp, implementation",11842
+Social Network (hard version),1234,B2,"data structures, implementation",15899
+Social Network (easy version),1234,B1,implementation,17790
+Ania and Minimizing,1230,B,"greedy, implementation",17772
+Dawid and Bags of Candies,1230,A,"brute force, implementation",20407
+One Node is Gone,1228,F,"constructive algorithms, implementation, trees",402
+Complete Tripartite,1228,D,"brute force, constructive algorithms, graphs, hashing, implementation",4847
+Filling the Grid,1228,B,"implementation, math",11106
+Distinct Digits,1228,A,"brute force, implementation",20409
+TV Subscriptions (Hard Version),1225,B2,"implementation, two pointers",9698
+TV Subscriptions (Easy Version),1225,B1,implementation,11349
+Cards,1220,A,"implementation, sortings, strings",27552
+Harvester,1219,G,implementation,574
+Periodic integer number,1219,C,"implementation, strings",1654
+Sum Queries?,1217,E,"data structures, greedy, implementation, math",1558
+Shooting,1216,B,"greedy, implementation, sortings",17476
+The Number of Products,1215,B,"combinatorics, dp, implementation",11468
+Yellow Cards,1215,A,"greedy, implementation, math",11027
+Unstable String Sort,1213,F,"data structures, dfs and similar, dsu, graphs, greedy, implementation, strings",2171
+Equalizing by Division (easy version),1213,D1,"brute force, implementation",10654
+Bad Prices,1213,B,"data structures, implementation",24086
+kotlinkotlinkotlinkotlin...,1211,F,"*special, graphs, implementation, strings",111
+Traveling Around the Golden Ring of Berland,1211,B,"*special, implementation",691
+Three Problems,1211,A,"*special, implementation",1138
+Into Blocks (easy version),1209,G1,"data structures, dsu, greedy, implementation, two pointers",2581
+Paint the Digits,1209,C,"constructive algorithms, greedy, implementation",7067
+Koala and Lights,1209,B,"implementation, math, number theory",7781
+Paint the Numbers,1209,A,"greedy, implementation, math",11565
+Red Blue Tree,1208,H,"data structures, implementation, trees",117
+Let Them Slide,1208,E,"data structures, implementation",1905
+Restore Permutation,1208,D,"binary search, data structures, greedy, implementation",4509
+Uniqueness,1208,B,"binary search, brute force, implementation, two pointers",9737
+Remainder Problem,1207,F,"brute force, data structures, implementation",4165
+Square Filling,1207,B,"constructive algorithms, greedy, implementation",12602
+There Are Two Types Of Burgers,1207,A,"brute force, greedy, implementation, math",20764
+Make Product Equal One,1206,B,"dp, implementation",24923
+Palindromic Paths,1205,C,"implementation, interactive",1080
+Remove the Substring (hard version),1203,D2,"binary search, greedy, implementation, two pointers",6721
+Remove the Substring (easy version),1203,D1,"greedy, implementation",8082
+Common Divisors,1203,C,"implementation, math",18486
+Circle of Students,1203,A,implementation,16019
+You Are Given Some Letters...,1202,F,"binary search, implementation, math",355
+You Are Given a WASD-string...,1202,C,"brute force, data structures, dp, greedy, implementation, math, strings",2209
+Treasure Hunting,1201,D,"binary search, dp, greedy, implementation",2027
+Important Exam,1201,A,"implementation, strings",14529
+Graph Traveler,1200,F,"brute force, data structures, dfs and similar, dp, graphs, implementation, math, number theory",831
+Compress Words,1200,E,"brute force, hashing, implementation, string suffix structures, strings",6290
+White Lines,1200,D,"brute force, data structures, dp, implementation, two pointers",3735
+Hotelier,1200,A,"brute force, data structures, implementation",19513
+City Day,1199,A,implementation,13507
+Pillars,1197,B,"greedy, implementation",13210
+Connected Component on a Chessboard,1196,E,"constructive algorithms, implementation",3384
+RGB Substring (hard version),1196,D2,"data structures, dp, implementation, two pointers",8953
+RGB Substring (easy version),1196,D1,implementation,9884
+Robot Breakout,1196,C,implementation,8838
+From S To T,1194,C,"implementation, strings",12435
+Yet Another Crosses Problem,1194,B,implementation,9815
+Tokitsukaze and Mahjong,1191,B,"brute force, implementation",9245
+Tokitsukaze and Discard Items,1190,A,"implementation, two pointers",8960
+Candies!,1189,C,"data structures, dp, implementation, math",9988
+Add on a Tree: Revolution,1188,A2,"constructive algorithms, dfs and similar, implementation, trees",997
+Vasya And Array,1187,C,"constructive algorithms, greedy, implementation",5892
+Letters Shop,1187,B,"binary search, implementation, strings",11550
+Vus the Cossack and a Graph,1186,F,"dfs and similar, graphs, greedy, implementation",721
+Vus the Cossack and a Field,1186,E,"divide and conquer, implementation, math",544
+Vus the Cossack and Strings,1186,C,"implementation, math",5685
+Vus the Cossack and a Contest,1186,A,implementation,34124
+Polycarp and Snakes,1185,E,"brute force, implementation",2391
+Extra Element,1185,D,"implementation, math",6277
+Email from Polycarp,1185,B,"implementation, strings",12451
+Parallel Universes (Easy),1184,D1,implementation,2424
+Heidi and the Turing Test (Easy),1184,C1,implementation,2183
+Candy Box (hard version),1183,G,"greedy, implementation, sortings",2200
+Subsequences (easy version),1183,E,"dp, graphs, implementation, shortest paths",4285
+Nearest Interesting Number,1183,A,implementation,23424
+Complete Mirror,1182,D,"constructive algorithms, dfs and similar, dp, hashing, implementation, trees",746
+Plus from Picture,1182,B,"dfs and similar, implementation, strings",10557
+Irrigation,1181,D,"binary search, data structures, implementation, sortings, trees, two pointers",1877
+Flag,1181,C,"brute force, combinatorics, dp, implementation",2962
+Split a Number,1181,B,"greedy, implementation, strings",6062
+Nick and Array,1180,B,"greedy, implementation",9100
+Alex and a Rhombus,1180,A,"dp, implementation, math",23012
+Serge and Dining Room,1179,C,"binary search, data structures, graph matchings, greedy, implementation, math, trees",1822
+Valeriy and Deque,1179,A,"data structures, implementation",9639
+Digits Sequence (Hard Edition),1177,B,"binary search, divide and conquer, implementation",2293
+Digits Sequence (Easy Edition),1177,A,implementation,5106
+Destroy it!,1176,F,"dp, implementation, sortings",1646
+Lose it!,1176,C,"dp, greedy, implementation",13453
+Divide it!,1176,A,"brute force, greedy, implementation",21030
+Minimal Segment Cover,1175,E,"data structures, dfs and similar, divide and conquer, dp, greedy, implementation, trees",2917
+Catch Overflow!,1175,B,"data structures, expression parsing, implementation",9598
+From Hero to Zero,1175,A,"implementation, math",16922
+Ehab and the Big Finale,1174,F,"constructive algorithms, divide and conquer, graphs, implementation, interactive, trees",1322
+Nauuo and Cards,1172,A,"greedy, implementation",4626
+Decoding of Integer Sequences,1170,D,"*special, data structures, implementation",395
+Minus and Minus Give Plus,1170,C,"*special, implementation, strings",739
+Bad Days,1170,B,"*special, implementation",950
+Pairs,1169,B,"graphs, implementation",8840
+Circle Metro,1169,A,"implementation, math",11235
+Anagram Paths,1168,D,"dp, implementation, trees",276
+Microtransactions (hard version),1165,F2,"binary search, greedy, implementation",1921
+Remainder,1165,A,"implementation, math",13092
+Power Transmission (Hard Edition),1163,C2,"data structures, geometry, implementation, math",3099
+Cat Party (Hard Edition),1163,B2,"data structures, implementation",6316
+Cat Party (Easy Edition),1163,B1,"data structures, implementation",6345
+Zoning Restrictions Again,1162,A,implementation,7669
+Expansion coefficient of the array,1159,B,"implementation, math",6739
+A pile of stones,1159,A,"implementation, math",11877
+The Party and Sweets,1158,A,"binary search, constructive algorithms, greedy, implementation, math, sortings, two pointers",6433
+Reachable Numbers,1157,A,implementation,14580
+Optimizer,1156,G,"graphs, greedy, hashing, implementation",108
+Ugly Pairs,1156,B,"dfs and similar, greedy, implementation, sortings, strings",5618
+Game with Telephone Numbers,1155,B,"games, greedy, implementation",11055
+Reverse a Substring,1155,A,"implementation, sortings, strings",11904
+Two Teams,1154,E,"data structures, implementation, sortings",5433
+Gourmet Cat,1154,C,"implementation, math",9644
+Neko Finds Grapes,1152,A,"greedy, implementation, math",14183
+Tiling Challenge,1150,B,"greedy, implementation",10231
+Stock Arbitraging,1150,A,"greedy, implementation",11010
+Tree Generator™,1149,C,"data structures, implementation, trees",1090
+Three Religions,1149,B,"dp, implementation, strings",1789
+Hot is Cold,1146,E,"bitmasks, data structures, divide and conquer, implementation",790
+"Hate ""A""",1146,B,"implementation, strings",7574
+"Love ""A""",1146,A,"implementation, strings",20346
+Pigeon d'Or,1145,D,implementation,1083
+Thanos Sort,1145,A,implementation,8345
+Parity Alternated Deletions,1144,B,"greedy, implementation, sortings",16184
+Diverse Strings,1144,A,"implementation, strings",18136
+The Doors,1143,A,implementation,12663
+Colored Boots,1141,D,"greedy, implementation",7822
+Maximal Continuous Rest,1141,B,implementation,19987
+Game 23,1141,A,"implementation, math",27176
+Good String,1140,B,"implementation, strings",10887
+Detective Book,1140,A,implementation,11795
+Chocolates,1139,B,"greedy, implementation",14881
+Even Substrings,1139,A,"implementation, strings",16093
+Sushi for Two,1138,A,"binary search, greedy, implementation",16412
+Museums Tour,1137,C,"dp, graphs, implementation",1073
+Skyscrapers,1137,A,"implementation, sortings",4087
+Nastya Is Reading a Book,1136,A,implementation,15803
+Middle of the Contest,1133,A,implementation,15656
+Regular Bracket Sequence,1132,A,"greedy, implementation",9167
+Draw!,1131,B,"greedy, implementation",9204
+Be Positive,1130,A,implementation,11208
+System Testing,1121,C,implementation,1903
+Mike and Children,1121,B,"brute force, implementation",8214
+Technogoblet of Fire,1121,A,"implementation, sortings",6948
+Once in a casino,1120,B,"constructive algorithms, greedy, implementation, math",392
+Diana and Liana,1120,A,"greedy, implementation, two pointers",1585
+Get Ready for the Battle,1119,G,"constructive algorithms, implementation",396
+Ramesses and Corner Inversion,1119,C,"constructive algorithms, greedy, implementation, math",6464
+Ilya and a Colorful Walk,1119,A,"greedy, implementation",10257
+Yet Another Ball Problem,1118,E,"constructive algorithms, implementation",3756
+Palindromic Matrix,1118,C,"constructive algorithms, implementation",5315
+Tanya and Candies,1118,B,implementation,11205
+Best Subsegment,1117,A,"implementation, math",10553
+Trailing Loves (or L'oeufs?),1114,C,"brute force, implementation, math, number theory",7049
+Got Any Grapes?,1114,A,"brute force, greedy, implementation",17926
+Average Superhero Gang Power ,1111,B,"brute force, implementation, math",5827
+Superhero Transformation,1111,A,"implementation, strings",16204
+Sasha and a Patient Friend,1109,C,"binary search, data structures, implementation",230
+Sasha and a Bit of Relax,1109,A,"dp, implementation",7981
+Array and Segments (Hard version),1108,E2,"data structures, implementation",2014
+Array and Segments (Easy version),1108,E1,"brute force, greedy, implementation",4234
+Two distinct points,1108,A,implementation,20663
+Compression,1107,D,"dp, implementation, math, number theory",3623
+Lunar New Year and Number Division,1106,C,"greedy, implementation, math, sortings",13883
+Lunar New Year and Food Ordering,1106,B,"data structures, implementation",6611
+Lunar New Year and Cross Counting,1106,A,implementation,12159
+Kilani and the Game,1105,D,"dfs and similar, graphs, implementation, shortest paths",3867
+Zuhair and Strings,1105,B,"brute force, implementation, strings",9641
+Salem and Sticks ,1105,A,"brute force, implementation",10545
+Game with string,1104,B,"data structures, implementation, math",13937
+Splitting into digits,1104,A,"constructive algorithms, implementation, math",14962
+Grid game,1103,A,"constructive algorithms, implementation",9336
+Polycarp's New Job,1101,E,implementation,7590
+Accordion,1101,B,"greedy, implementation",10162
+Build a Contest,1100,B,"data structures, implementation",10645
+Roman and Browser,1100,A,implementation,9867
+Postcard,1099,C,"constructive algorithms, implementation",8758
+Snowball,1099,A,implementation,12134
+Fedya the Potter,1098,E,"binary search, implementation, math, number theory",195
+Yuhao and a Parenthesis,1097,C,"greedy, implementation",7739
+Gennady and a Card Game,1097,A,"brute force, implementation",34673
+Find Divisible,1096,A,"greedy, implementation, math",17501
+Almost Regular Bracket Sequence,1095,E,implementation,3470
+Circular Dance,1095,D,implementation,6772
+Array Stabilization,1095,B,implementation,19866
+Repeating Cipher,1095,A,implementation,27418
+Great Vova Wall (Version 2),1092,D2,"data structures, implementation",2673
+Great Vova Wall (Version 1),1092,D1,"greedy, implementation, math",3913
+Uniform String,1092,A,implementation,14874
+New Year and the Acquaintance Estimation,1091,E,"binary search, data structures, graphs, greedy, implementation, math, sortings",947
+New Year and the Treasure Geolocation,1091,B,"brute force, constructive algorithms, greedy, implementation",9979
+New Year and the Christmas Ornament,1091,A,"brute force, implementation, math",16746
+The Pleasant Walk,1090,M,implementation,5646
+Combostone,1090,G,"games, implementation",99
+JS Minification,1089,J,"greedy, implementation",114
+Ehab and another another xor problem,1088,D,"bitmasks, constructive algorithms, implementation, interactive",2625
+Ehab and subtraction,1088,B,"implementation, sortings",12026
+Vasya and Templates,1085,E,"greedy, implementation, strings",824
+Minimum Diameter Tree,1085,D,"constructive algorithms, implementation, trees",5186
+Connect Three,1085,C,"implementation, math",5315
+Right-Left Cipher,1085,A,"implementation, strings",11694
+The Fair Nut and String,1084,C,"combinatorics, dp, implementation",7184
+Kvass and the Fair Nut,1084,B,"greedy, implementation",7535
+The Fair Nut and Elevator,1084,A,"brute force, implementation",7724
+The Fair Nut's getting crazy,1083,D,"data structures, implementation",196
+Maximum Diameter Graph,1082,D,"constructive algorithms, graphs, implementation",3486
+Vasya and Book,1082,A,"implementation, math",8246
+Tricky Interactor,1081,F,"constructive algorithms, implementation, interactive",410
+Farewell Party,1081,B,"constructive algorithms, implementation",4295
+Olya and magical square,1080,D,"constructive algorithms, implementation, math",1473
+Masha and two friends,1080,C,implementation,3944
+Divisor Subtraction,1076,B,"implementation, math, number theory",12060
+Taxi drivers and Lyft,1075,B,"implementation, sortings",4092
+The King's Race,1075,A,"implementation, math",8100
+Vasya and Books,1073,B,"implementation, math",10208
+Diverse Substring,1073,A,"implementation, strings",14267
+Video Posts,1070,K,implementation,4756
+BerOS File Suggestion,1070,H,"brute force, implementation",3528
+Monsters and Potions,1070,G,"brute force, dp, greedy, implementation",799
+Binary Numbers AND Sum,1066,E,"data structures, implementation, math",5771
+Boxes Packing,1066,D,"binary search, implementation",5085
+Books Queries,1066,C,implementation,9073
+Vasya and Chocolate,1065,A,"implementation, math",14278
+Fun with Integers,1062,D,"dfs and similar, graphs, implementation, math",3792
+Banh-mi,1062,C,"greedy, implementation, math",5233
+A Prank,1062,A,"greedy, implementation",8423
+TV Shows,1061,D,"data structures, greedy, implementation, sortings",2230
+Multiplicity,1061,C,"data structures, dp, implementation, math, number theory",7781
+Views Matter,1061,B,"greedy, implementation, sortings",7109
+Coins,1061,A,"greedy, implementation, math",20391
+Maximum Subrectangle,1060,C,"binary search, implementation, two pointers",4710
+Forgery,1059,B,implementation,6704
+Cashier,1059,A,implementation,12133
+Pick Heroes,1056,C,"greedy, implementation, interactive, sortings",2248
+Determine Line,1056,A,implementation,6231
+Refactoring,1055,D,"greedy, implementation, strings",605
+Alice and Hairdresser,1055,B,"dsu, implementation",4751
+Chips Puzzle,1054,E,"constructive algorithms, implementation, math",454
+Changing Array,1054,D,"greedy, implementation",2181
+Candies Distribution,1054,C,"constructive algorithms, implementation",4167
+Appending Mex,1054,B,implementation,6241
+Elevator or Stairs?,1054,A,implementation,8802
+Vasya and Multisets,1051,C,"brute force, dp, greedy, implementation, math",8919
+Vasya And Password,1051,A,"greedy, implementation, strings",8167
+Splitting money,1046,F,implementation,2662
+Grid Sort,1044,E,implementation,103
+Smallest Word,1043,C,"constructive algorithms, greedy, implementation",6600
+Lost Array,1043,B,implementation,6120
+Elections,1043,A,"implementation, math",10515
+Vitamins,1042,B,"bitmasks, brute force, dp, implementation",14108
+Benches,1042,A,"binary search, implementation",12034
+Heist,1041,A,"greedy, implementation, sortings",23080
+Slime,1038,D,"dp, greedy, implementation",7872
+Equality,1038,A,"implementation, strings",13733
+King Escape,1033,A,"dfs and similar, graphs, implementation",12263
+Barcelonian Distance,1032,D,"geometry, implementation",2504
+Golden Plate,1031,A,"implementation, math",12570
+Vasya and Golden Ticket,1030,C,implementation,9161
+In Search of an Easy Problem,1030,A,implementation,106799
+Concatenated Multiples,1029,D,"implementation, math",3551
+Many Equal Substrings,1029,A,"implementation, strings",11674
+Rectangles,1028,C,"geometry, implementation, sortings",4228
+Find Square,1028,A,implementation,10346
+Numbers on the Chessboard,1027,B,"implementation, math",7959
+Palindromic Twist,1027,A,"implementation, strings",14585
+Colored Cubes,1025,E,"constructive algorithms, implementation, matrices",515
+Plasticine zebra,1025,C,"constructive algorithms, implementation",5800
+Doggo Recoloring,1025,A,"implementation, sortings",13827
+Single Wildcard Pattern Matching,1023,A,"brute force, implementation, strings",8305
+The Bits,1017,B,"implementation, math",8932
+The Rank,1017,A,implementation,18826
+Vasya And The Mushrooms,1016,C,"dp, implementation",3562
+Segment Occurrences,1016,B,"brute force, implementation",9016
+Death Note,1016,A,"greedy, implementation, math",13973
+Obtaining the String,1015,B,implementation,10965
+Points in Segments,1015,A,implementation,19544
+Passports,1012,F,"dp, implementation",145
+Photo of The Sky,1012,A,"brute force, implementation, math, sortings",6059
+Planning The Expedition,1011,B,"binary search, brute force, implementation",9548
+Stages,1011,A,"greedy, implementation, sortings",11519
+Mars rover,1010,D,"dfs and similar, graphs, implementation, trees",2252
+Minimum Ternary String,1009,B,"greedy, implementation",9490
+Game Shopping,1009,A,implementation,11488
+Romaji,1008,A,"implementation, strings",14166
+Two Strings Swaps,1006,D,implementation,5666
+Polycarp's Practice,1006,B,"greedy, implementation, sortings",12309
+Adjacent Replacements,1006,A,implementation,20192
+Summarize to the Power of Two,1005,C,"brute force, greedy, implementation",10735
+Delete from the Left,1005,B,"brute force, implementation, strings",20800
+Tanya and Stairways,1005,A,implementation,21677
+Sonya and Matrix,1004,D,"brute force, constructive algorithms, implementation",1354
+Sonya and Robots,1004,C,"constructive algorithms, implementation",7301
+Sonya and Exhibition,1004,B,"constructive algorithms, greedy, implementation, math",9024
+Sonya and Hotels,1004,A,implementation,10725
+Intense Heat,1003,C,"brute force, implementation, math",9904
+Polycarp's Pockets,1003,A,implementation,24821
+Covered Points Count,1000,C,"data structures, implementation, sortings",6126
+Codehorses T-shirts,1000,A,"greedy, implementation",8378
+Equalize the Remainders,999,D,"data structures, greedy, implementation",3947
+Alphabetic Removals,999,C,implementation,16078
+Reversing Encryption,999,B,implementation,16007
+Mishka and Contest,999,A,"brute force, implementation",20406
+Balloons,998,A,"constructive algorithms, implementation",8969
+Convert to Ones,997,A,"brute force, greedy, implementation, math",7998
+Suit and Tie,995,B,"greedy, implementation, math",6906
+Tesla,995,A,"constructive algorithms, implementation",1463
+Knights of a Polygonal Table,994,B,"greedy, implementation, sortings",5432
+Fingerprints,994,A,implementation,13533
+Two Squares,993,A,"geometry, implementation",3818
+Nastya and a Game,992,D,"brute force, implementation, math",1557
+Nastya and an Array,992,A,"implementation, sortings",12568
+Concise and clear,991,F,"brute force, greedy, implementation, math",285
+Candies,991,C,"binary search, implementation",9412
+If at first you don't succeed...,991,A,implementation,10117
+Graph And Its Complement,990,D,"constructive algorithms, graphs, implementation",3683
+Bracket Sequences Concatenation Problem,990,C,implementation,5578
+Commentary Boxes,990,A,"implementation, math",10231
+A Blend of Springtime,989,A,"implementation, strings",9863
+Equal Sums,988,C,"implementation, sortings",9345
+Diverse Team,988,A,"brute force, implementation",22212
+Three displays,987,C,"brute force, dp, implementation",12567
+Infinity Gauntlet,987,A,implementation,15371
+Switches and Lamps,985,B,implementation,7179
+Chess Placing,985,A,implementation,7961
+Minesweeper,984,B,implementation,7128
+Finite or not?,983,A,"implementation, math",4399
+Bus of Characters,982,B,"data structures, greedy, implementation",7910
+Useful Decomposition,981,C,"implementation, trees",4970
+Antipalindrome,981,A,"brute force, implementation, strings",8752
+Links and Pearls,980,A,"implementation, math",10114
+Petya's Exams,978,G,"greedy, implementation, sortings",4002
+Mentors,978,F,"binary search, data structures, implementation",7618
+Almost Arithmetic Progression,978,D,"brute force, implementation, math",7909
+Letters,978,C,"binary search, implementation, two pointers",22776
+Remove Duplicates,978,A,implementation,23990
+Two-gram,977,B,"implementation, strings",33109
+Wrong Subtraction,977,A,implementation,138385
+Degree Set,976,D,"constructive algorithms, graphs, implementation",643
+Nested Segments,976,C,"greedy, implementation, sortings",5994
+Lara Croft and the New Game,976,B,"implementation, math",5581
+Minimum Binary Number,976,A,implementation,10167
+Mancala,975,B,"brute force, implementation",6621
+Aramic script,975,A,"implementation, strings",8670
+Mind the Gap,967,A,implementation,4216
+Battleship,965,B,implementation,4378
+Merge Equals,962,D,"data structures, implementation",6458
+Make a Square,962,C,"brute force, implementation, math",7432
+Students in Railway Carriage,962,B,"constructive algorithms, greedy, implementation",7397
+Equator,962,A,implementation,12254
+Chessboard,961,C,"bitmasks, brute force, implementation",5131
+Lecture Sleep,961,B,"data structures, dp, implementation, two pointers",17614
+Tetris,961,A,implementation,9690
+Full Binary Tree Queries,960,D,"brute force, implementation, trees",1637
+Subsequence Counting,960,C,"bitmasks, constructive algorithms, greedy, implementation",3734
+Check the string,960,A,implementation,7796
+Mahmoud and Ehab and the xor-MST,959,E,"bitmasks, dp, graphs, implementation, math",3211
+Mahmoud and Ehab and the message,959,B,"dsu, greedy, implementation",8703
+Lightsabers (easy),958,F1,implementation,1531
+Maximum Control (easy),958,B1,implementation,3156
+Death Stars (easy),958,A1,implementation,1596
+Tritonic Iridescence,957,A,implementation,5403
+Not simply beatiful strings,955,B,implementation,4617
+Matrix Walk,954,C,implementation,3622
+String Typing,954,B,"implementation, strings",6909
+Diagonal Walking,954,A,implementation,10180
+Ravioli Sort,952,C,implementation,2777
+Intercepted Message,950,B,"greedy, implementation",7168
+"Left-handers, Right-handers and Ambidexters",950,A,"implementation, math",14052
+Protect Sheep,948,A,"brute force, dfs and similar, graphs, implementation",12539
+Largest Beautiful Number,946,E,"greedy, implementation",1010
+Alena And The Heater,940,D,"binary search, implementation",3491
+Phone Numbers,940,C,"constructive algorithms, implementation, strings",5489
+Hamster Farm,939,B,implementation,9950
+Word Correction,938,A,implementation,10870
+Olympiad,937,A,"implementation, sortings",14051
+Lock Puzzle,936,C,"constructive algorithms, implementation, strings",1126
+Save Energy!,936,A,"binary search, implementation, math",4278
+Fafa and the Gates,935,B,implementation,11017
+Fafa and his Company,935,A,"brute force, implementation",39065
+A Prosperous Lot,934,B,"constructive algorithms, implementation",8301
+Laboratory Work,931,C,"implementation, math",3229
+World Cup,931,B,"constructive algorithms, implementation",6832
+Friends Meeting,931,A,"brute force, greedy, implementation, math",11337
+Game with Tokens,930,D,"data structures, games, implementation",378
+Game with String,930,B,"implementation, probabilities, strings",2535
+Места в самолёте,929,B,"*special, implementation",2030
+Прокат велосипедов,929,A,"*special, greedy, implementation",2474
+Dependency management,928,C,"*special, graphs, implementation",873
+Is This a Zebra?,926,C,implementation,1776
+2-3-numbers,926,A,"implementation, math",3491
+Resource Distribution,925,B,"binary search, implementation, sortings",2149
+Mystical Mosaic,924,A,"greedy, implementation",4861
+Picking Strings,923,D,"constructive algorithms, implementation, strings",1133
+Cloning Toys,922,A,implementation,10641
+Tanks,920,D,"dp, greedy, implementation",661
+Tea Queue,920,B,implementation,6840
+Water The Garden,920,A,implementation,7433
+Seat Arrangements,919,C,"brute force, implementation",8612
+Perfect Number,919,B,"binary search, brute force, dp, implementation, number theory",24655
+Supermarket,919,A,"brute force, greedy, implementation",15257
+Radio Station,918,B,"implementation, strings",14064
+Eleven,918,A,"brute force, implementation",15788
+The Monster,917,A,"dp, greedy, implementation, math",3377
+Jamie and Alarm Snooze,916,A,"brute force, implementation, math",8305
+Physical Education Lessons,915,E,"data structures, implementation, sortings",3583
+Browser,915,B,implementation,7534
+Garden,915,A,implementation,13595
+Conan and Agasa play a Card Game,914,B,"games, greedy, implementation",8322
+Perfect Squares,914,A,"brute force, implementation, math",12814
+Christmas Spruce,913,B,"implementation, trees",14700
+Modular Exponentiation,913,A,"implementation, math",19449
+Tricky Alchemy,912,A,implementation,12666
+Stack Sorting,911,E,"constructive algorithms, data structures, greedy, implementation",2346
+Two Cakes,911,B,"binary search, brute force, implementation",10525
+Nearest Minimums,911,A,implementation,10985
+Door Frames,910,B,"greedy, implementation",1588
+The Way to Home,910,A,"dfs and similar, dp, greedy, implementation",10623
+Colorful Points,909,D,"data structures, greedy, implementation",1623
+New Year and Rainbow Roads,908,F,"graphs, greedy, implementation",1294
+New Year and Curling,908,C,"brute force, geometry, implementation, math",6534
+New Year and Buggy Bot,908,B,"brute force, implementation",7490
+New Year and Counting Cards,908,A,"brute force, implementation",13999
+Tic-Tac-Toe,907,B,implementation,3948
+Masha and Bears,907,A,"brute force, implementation",5451
+Shockers,906,A,"implementation, strings",4032
+Swapping Characters,903,E,"brute force, hashing, implementation, strings",1212
+The Modcrab,903,B,"greedy, implementation",7375
+Hungry Student Problem,903,A,"greedy, implementation",13660
+Visiting a Friend,902,A,"greedy, implementation",9542
+Find Extra One,900,A,"geometry, implementation",12699
+Segments Removal,899,E,"data structures, dsu, flows, implementation, two pointers",2579
+Months and Years,899,B,implementation,5638
+Phone Numbers,898,C,"implementation, strings",4974
+Proper Nutrition,898,B,"brute force, implementation, number theory",8899
+Rounding,898,A,"implementation, math",14777
+Scarborough Fair,897,A,implementation,13088
+Pizza Separation,895,A,"brute force, implementation",6300
+Credit Card,893,D,"data structures, dp, greedy, implementation",2810
+Beautiful Divisors,893,B,"brute force, implementation",10500
+Chess For Three,893,A,implementation,9744
+Wrath,892,B,"greedy, implementation, two pointers",8377
+Greed,892,A,"greedy, implementation",12455
+K-Dominant Character,888,C,"binary search, implementation, two pointers",7627
+Local Extrema,888,A,"brute force, implementation",10330
+Solution for Cube,887,C,"brute force, implementation",2783
+Cubes for Masha,887,B,"brute force, implementation",5043
+Div. 64,887,A,implementation,10629
+Restoration of string,886,D,"constructive algorithms, graphs, implementation",1685
+Petya and Catacombs,886,C,"dsu, greedy, implementation, trees",5360
+Japanese Crosswords Strike Back,884,B,implementation,6687
+Book Reading,884,A,implementation,9952
+Road Widening,883,K,"constructive algorithms, greedy, implementation",1043
+Palindromic Cut,883,H,"brute force, implementation, strings",1525
+Lost in Transliteration,883,F,implementation,2195
+Field of Wonders,883,E,"implementation, strings",1843
+Downloading B++,883,C,"binary search, implementation",602
+Automatic Door,883,A,implementation,559
+Table Tennis,879,B,"data structures, implementation",11257
+Borya's Diagnosis,879,A,implementation,8773
+Teams Formation,878,B,"data structures, implementation",1012
+Alex and broken contest,877,A,"implementation, strings",10481
+Divisiblity of Differences,876,B,"implementation, math, number theory",8331
+National Property,875,C,"2-sat, dfs and similar, graphs, implementation",1851
+Sorting the Coins,875,B,"dsu, implementation, sortings, two pointers",5051
+Balanced Substring,873,B,"dp, implementation",7110
+Chores,873,A,implementation,7716
+Search for Pretty Integers,870,A,"brute force, implementation",9670
+The Artful Expedient,869,A,"brute force, implementation",9224
+Huge Strings,868,D,"bitmasks, brute force, dp, implementation, strings",869
+Race Against Time,868,B,implementation,3567
+Bark to Unlock,868,A,"brute force, implementation, strings",8323
+Between the Offices,867,A,implementation,17997
+Make a Permutation!,864,D,"greedy, implementation, math",5833
+Bus,864,C,"greedy, implementation, math",5751
+Polycarp and Letters,864,B,"brute force, implementation, strings",8585
+Fair Game,864,A,"implementation, sortings",10859
+Yet Another Array Queries Problem,863,D,"data structures, implementation",3000
+1-2-3,863,C,"graphs, implementation",2340
+Quasi-palindrome,863,A,"brute force, implementation",9696
+Mahmoud and Ehab and the MEX,862,A,"greedy, implementation",9055
+Declined Finalists,859,A,"greedy, implementation",7384
+Tests Renumeration,858,E,"greedy, implementation",485
+Polycarp's phone book,858,D,"data structures, implementation, sortings",3592
+Did you mean...,858,C,"dp, greedy, implementation",5318
+Which floor?,858,B,"brute force, implementation",3588
+Tom Riddle's Diary,855,A,"brute force, implementation, strings",18343
+Bathroom terminal,852,G,implementation,1217
+Digits,852,A,"brute force, implementation, math",356
+Arpa and a research in Mexican wave,851,A,"implementation, math",9222
+Arpa and a list of numbers,850,B,"implementation, number theory",1923
+Odds and Ends,849,A,implementation,8679
+Rooter's Song,848,B,"constructive algorithms, data structures, geometry, implementation, sortings, two pointers",1774
+Weather Tomorrow,847,M,"implementation, math",5997
+Travel Cards,847,K,"greedy, implementation, sortings",1428
+Noise Level,847,I,"dfs and similar, implementation, math",1476
+University Classes,847,G,implementation,6315
+Union of Doubly Linked Lists,847,A,implementation,3222
+Curriculum Vitae,846,A,"brute force, implementation",4052
+Luba And The Ticket,845,B,"brute force, greedy, implementation",4813
+Chess Tourney,845,A,"implementation, sortings",7423
+Diversity,844,A,"greedy, implementation, strings",9906
+Sorting by Subsequences,843,A,"dfs and similar, dsu, implementation, math, sortings",5458
+Generous Kefa,841,A,"brute force, implementation",12185
+Game of the Rows,839,B,"brute force, greedy, implementation",3214
+Arya and Bran,839,A,implementation,13202
+Vasya's Function,837,E,"binary search, implementation, math",1438
+Two Seals,837,C,"brute force, implementation",3839
+Flag of Berland,837,B,"brute force, implementation",3825
+Text Volume,837,A,implementation,8980
+Star sky,835,C,"dp, implementation",7434
+The Festive Evening,834,B,"data structures, implementation",8237
+The Useless Toy,834,A,implementation,8340
+Red-Black Cobweb,833,D,"data structures, divide and conquer, implementation, trees",329
+Strange Radiation,832,C,"binary search, implementation, math",419
+Petya and Exam,832,B,"implementation, strings",4273
+Keyboard Layouts,831,B,"implementation, strings",13264
+Unimodal Array,831,A,implementation,9712
+Perpetual Motion Machine,830,E,"constructive algorithms, dp, graphs, implementation, math, trees",251
+Bamboo Partition,830,C,"brute force, data structures, implementation, math, number theory, sortings, two pointers",1152
+Cards Sorting,830,B,"data structures, implementation, sortings",2686
+Black Square,828,B,implementation,5592
+Restaurant Tables,828,A,implementation,7652
+High Load,827,B,"constructive algorithms, greedy, implementation, trees",3375
+Suitable Replacement,825,D,"binary search, greedy, implementation",3099
+Multi-judge Solving,825,C,"greedy, implementation",4276
+Five-In-a-Row,825,B,"brute force, implementation",3986
+Binary Protocol,825,A,implementation,7342
+"Hacker, pack your bags!",822,C,"binary search, greedy, implementation, sortings",4395
+Crossword solving,822,B,"brute force, implementation, strings",9126
+I'm bored with life,822,A,"implementation, math, number theory",29223
+Okabe and Future Gadget Laboratory,821,A,implementation,7824
+Mister B and Book Reading,820,A,implementation,7821
+Mister B and PR Shifts,819,B,"data structures, implementation, math",1576
+Multicolored Cars,818,D,"data structures, implementation",3309
+Sofa Thief,818,C,"brute force, implementation",1165
+Permutation Game,818,B,implementation,2900
+Diplomas and Certificates,818,A,"implementation, math",6552
+Makes And The Product,817,B,"combinatorics, implementation, math, sortings",5267
+Treasure Hunt,817,A,"implementation, math, number theory",5896
+Karen and Coffee,816,B,"binary search, data structures, implementation",14735
+Karen and Morning,816,A,"brute force, implementation",8675
+Karen and Neighborhood,815,E,"binary search, constructive algorithms, implementation",209
+Karen and Game,815,A,"brute force, greedy, implementation",5507
+An abandoned sentiment from past,814,A,"constructive algorithms, greedy, implementation, sortings",9716
+The Contest,813,A,implementation,4912
+Sagheer and Kindergarten,812,D,"dfs and similar, graphs, implementation, trees",306
+Sagheer and Crossroads,812,A,implementation,6103
+Vladik and Memorable Trip,811,C,"dp, implementation",3151
+Vladik and Complicated Book,811,B,"implementation, sortings",6355
+Vladik and Courtesy,811,A,"brute force, implementation",11119
+Straight <<A>>,810,A,"implementation, math",8555
+Do you want a date?,809,A,"implementation, math, sortings",4585
+Array Division,808,D,"binary search, data structures, implementation",6434
+Average Sleep Time,808,B,"data structures, implementation, math",6035
+Lucky Year,808,A,implementation,8758
+T-Shirt Hunt,807,B,"brute force, implementation",3501
+Is it rated?,807,A,"implementation, sortings",18304
+Minimum number of steps,804,B,"combinatorics, greedy, implementation, math",9158
+Fake News (easy),802,G,"implementation, strings",6255
+Fountains,799,C,"binary search, data structures, implementation",3471
+T-shirt buying,799,B,"data structures, implementation",7941
+Carrot Cakes,799,A,"brute force, implementation",16744
+Odd sum,797,B,"dp, greedy, implementation",9770
+k-Factorization,797,A,"implementation, math, number theory",12645
+Find The Bone,796,B,implementation,8716
+Buying A House,796,A,"brute force, implementation",12158
+Bank Robbery,794,A,"brute force, implementation",6789
+Mice problem,793,C,"geometry, implementation, math, sortings",1208
+Igor and his way to work,793,B,"dfs and similar, graphs, implementation, shortest paths",4192
+Oleg and shares,793,A,"implementation, math",6263
+Counting-out Rhyme,792,B,implementation,5769
+New Bus Route,792,A,"implementation, sortings",8484
+Bear and Big Brother,791,A,implementation,158643
+Masha and geometric depression,789,B,"brute force, implementation, math",4310
+Anastasia and pebbles,789,A,"implementation, math",8648
+Not Afraid,787,B,"greedy, implementation, math",5521
+Anton and Polyhedrons,785,A,"implementation, strings",73864
+Crunching Numbers Just for You,784,F,"*special, implementation",826
+Twisted Circuit,784,E,"*special, brute force, implementation",1795
+Touchy-Feely Palindromes,784,D,"*special, implementation",374
+INTERCALC,784,C,"*special, implementation",614
+Intranet of Buses,780,H,"binary search, geometry, implementation, two pointers",111
+Innokenty and a Football League,780,D,"2-sat, graphs, greedy, implementation, shortest paths, strings",2803
+Andryusha and Socks,780,A,implementation,17089
+Bitwise Formula,778,B,"bitmasks, brute force, dfs and similar, expression parsing, implementation",2197
+Cloud of Hashtags,777,D,"binary search, greedy, implementation, strings",4816
+Alyona and Spreadsheet,777,C,"binary search, data structures, dp, greedy, implementation, two pointers",6045
+Shell Game,777,A,"constructive algorithms, implementation, math",9488
+Sherlock's bet to Moriarty,776,F,"constructive algorithms, data structures, divide and conquer, geometry, graphs, implementation, trees",386
+Molly's Chemicals,776,C,"binary search, brute force, data structures, implementation, math",5623
+A Serial Killer,776,A,"brute force, implementation, strings",10962
+Stepan and Vowels,774,K,"*special, implementation, strings",1231
+Lie or Truth,774,D,"*special, constructive algorithms, implementation, sortings",1863
+Maximum Number,774,C,"*special, constructive algorithms, greedy, implementation",3523
+Draw Brackets!,770,D,"*special, implementation",1551
+Online Courses In BSU,770,C,"*special, dfs and similar, graphs, implementation",2429
+Maximize Sum of Digits,770,B,"*special, implementation, math",2647
+New Password,770,A,"*special, implementation",17631
+Year of University Entrance,769,A,"*special, implementation, sortings",5297
+Jon Snow and his Favourite Number,768,C,"brute force, dp, implementation, sortings",3713
+Snacktower,767,A,"data structures, implementation",18029
+Tree Folding,765,E,"dfs and similar, dp, greedy, implementation, trees",1229
+Code obfuscation,765,B,"greedy, implementation, strings",6916
+Neverending competitions,765,A,"implementation, math",8287
+Timofey and cubes,764,B,"constructive algorithms, implementation",10889
+Taymyr is calling you,764,A,"brute force, implementation, math",15618
+Timofey and remoduling,763,C,"brute force, implementation, math, number theory",695
+Timofey and a tree,763,A,"dfs and similar, dp, dsu, graphs, implementation, trees",9774
+Maximum path,762,D,"dp, greedy, implementation",1220
+USB vs. PS/2,762,B,"greedy, implementation, sortings, two pointers",6888
+Dasha and Photos,761,F,"brute force, data structures, dp, implementation",382
+Dasha and Password,761,C,"brute force, dp, implementation",5595
+Dasha and friends,761,B,"brute force, implementation, math",6563
+Dasha and Stairs,761,A,"brute force, constructive algorithms, implementation, math",13847
+Petr and a calendar,760,A,"implementation, math",7578
+Unfair Poll,758,C,"binary search, constructive algorithms, implementation, math",3777
+Blown Garland,758,B,"brute force, implementation, number theory",9500
+Holiday Of Equality,758,A,"implementation, math",51774
+Gotta Catch Em' All!,757,A,implementation,10656
+Vladik and chat,754,C,"brute force, constructive algorithms, dp, implementation, strings",876
+Ilya and tic-tac-toe game,754,B,"brute force, implementation",6701
+Lesha and array splitting,754,A,"constructive algorithms, greedy, implementation",7932
+Interactive Bulls and Cows (Easy),753,B,"brute force, constructive algorithms, implementation",1145
+New Year and Finding Roots,750,F,"constructive algorithms, implementation, interactive, trees",406
+New Year and Fireworks,750,D,"brute force, data structures, dfs and similar, dp, implementation",3038
+New Year and North Pole,750,B,"geometry, implementation",9160
+New Year and Hurry,750,A,"binary search, brute force, implementation, math",64181
+Voting,749,C,"greedy, implementation, two pointers",5798
+Bachgold Problem,749,A,"greedy, implementation, math, number theory",43060
+Santa Claus and Keyboard Check,748,B,"implementation, strings",5236
+Santa Claus and a Place in a Class,748,A,"implementation, math",8180
+Comments,747,E,"dfs and similar, expression parsing, implementation, strings",1911
+Servers,747,C,implementation,4354
+Mammoth's Genome Decoding,747,B,"implementation, strings",8297
+Numbers Exchange,746,E,"greedy, implementation, math",1691
+Tram,746,C,"constructive algorithms, implementation, math",3635
+Decoding,746,B,"implementation, strings",24033
+Compote,746,A,"implementation, math",19618
+Hongcow Solves A Puzzle,745,B,implementation,3639
+Hongcow Learns the Cyclic Shift,745,A,"implementation, strings",9656
+Chloe and the sequence ,743,B,"binary search, bitmasks, constructive algorithms, implementation",13380
+Vladik and flights,743,A,"constructive algorithms, greedy, implementation",10443
+Arpa’s hard exam and Mehrdad’s naive cheat,742,A,"implementation, math, number theory",36531
+Alyona and copybooks,740,A,"brute force, implementation",8345
+Ostap and Grasshopper,735,A,"implementation, strings",11878
+Anton and School,734,F,"bitmasks, constructive algorithms, implementation, math",1220
+Anton and Chess,734,D,implementation,3651
+Anton and Digits,734,B,"brute force, greedy, implementation, math",27336
+Anton and Danik,734,A,"implementation, strings",125151
+Grasshopper And the String,733,A,implementation,15319
+Sanatorium,732,C,"binary search, constructive algorithms, greedy, implementation, math",8936
+Buy a Shovel,732,A,"brute force, constructive algorithms, implementation, math",61243
+Video Cards,731,F,"brute force, data structures, implementation, math, number theory",2683
+Night at the Museum,731,A,"implementation, strings",40124
+Delete Them,730,H,"constructive algorithms, implementation",2877
+Car Repair Shop,730,G,implementation,2073
+Award Ceremony,730,E,"greedy, implementation",700
+Running Over The Bridges,730,D,"greedy, implementation, math",670
+Toda 2,730,A,"greedy, implementation",1528
+Spotlights,729,B,"dp, implementation",7443
+Interview with Oleg,729,A,"implementation, strings",7054
+Bill Total Value,727,B,"expression parsing, implementation, strings",1931
+Hidden Word,725,C,"brute force, constructive algorithms, implementation, strings",2547
+Food on the Plane,725,B,"implementation, math",5048
+Jumping Ball,725,A,implementation,6505
+Ray Tracing,724,C,"greedy, hashing, implementation, math, number theory, sortings",2012
+Batch Sort,724,B,"brute force, greedy, implementation, math",3886
+Checking the Calendar,724,A,implementation,6449
+st-Spanning Tree,723,F,"dsu, graphs, greedy, implementation",1368
+Lakes in Berland,723,D,"dfs and similar, dsu, graphs, greedy, implementation",6640
+Text Document Analysis,723,B,"expression parsing, implementation, strings",9674
+The New Year: Meeting Friends,723,A,"implementation, math, sortings",62753
+Cyclic Cipher,722,F,"chinese remainder theorem, data structures, implementation, number theory, two pointers",452
+Verse Pattern,722,B,"implementation, strings",6244
+Broken Clock,722,A,"brute force, implementation",6101
+Passwords,721,B,"implementation, math, sortings, strings",11602
+One-dimensional Japanese Crossword,721,A,implementation,17643
+Cipher,720,E,implementation,58
+Vitya in the Countryside,719,A,implementation,15023
+Efim and Strange Grade,718,A,"dp, implementation, math",4262
+Potions Homework,717,C,"implementation, sortings",3735
+Crazy Computer,716,A,implementation,21185
+Filya and Homework,714,B,"implementation, sortings",13147
+Meeting of Old Friends,714,A,"implementation, math",10379
+Sonya and Queries,713,A,"data structures, implementation",8192
+Memory and Trident,712,B,"implementation, strings",9019
+Memory and Crow,712,A,"implementation, math",11205
+Chris and Magic Square,711,B,"constructive algorithms, implementation",7876
+Bus to Udayland,711,A,"brute force, implementation",27991
+King Moves,710,A,implementation,12940
+Checkpoints,709,B,"greedy, implementation, sortings",4651
+Juicer,709,A,implementation,27254
+Recover the String,708,B,"constructive algorithms, greedy, implementation, math",3162
+Letters Cyclic Shift,708,A,"constructive algorithms, greedy, implementation, strings",8313
+Persistent Bookcase ,707,D,"bitmasks, data structures, dfs and similar, implementation",2478
+Brain's Photos,707,A,implementation,42504
+Working routine,706,E,"data structures, implementation",1066
+Interesting drink,706,B,"binary search, dp, implementation",52001
+Beru-taxi,706,A,"brute force, geometry, implementation",13745
+Hulk,705,A,implementation,90736
+Black Widow,704,C,"dp, graphs, implementation, math",389
+Thor,704,A,"brute force, data structures, implementation",8613
+Chris and Road,703,C,"geometry, implementation",1540
+Mishka and trip,703,B,"implementation, math",5579
+Mishka and Game,703,A,implementation,49416
+Cellular Network,702,C,"binary search, implementation, two pointers",10987
+Powers of Two,702,B,"brute force, data structures, implementation, math",10658
+Maximum Increase,702,A,"dp, greedy, implementation",37717
+Cards,701,A,"greedy, implementation",18174
+One Bomb,699,B,implementation,7046
+Launch of Collider,699,A,implementation,14358
+Barnicle,697,B,"brute force, implementation, math, strings",5611
+Pineapple Incident,697,A,"implementation, math",12097
+PLEASE,696,C,"combinatorics, dp, implementation, math, matrices",2000
+Lorenzo Von Matterhorn,696,A,"brute force, data structures, implementation, trees",5888
+Exponential notation,691,C,"implementation, strings",2383
+s-palindrome,691,B,"implementation, strings",4523
+Fashion in Berland,691,A,implementation,9538
+Mike and Geometry Problem,689,E,"combinatorics, data structures, dp, geometry, implementation",1679
+Mike and Cellphone,689,A,"brute force, constructive algorithms, implementation",5115
+Opponents,688,A,implementation,13325
+Little Robber Girl's Zoo,686,B,"constructive algorithms, implementation, sortings",7232
+Free Ice Cream,686,A,"constructive algorithms, implementation",32933
+Kay and Eternity,685,D,"brute force, implementation, sortings",468
+A Good Contest,681,A,implementation,14584
+Bear and Finding Criminals,680,B,"constructive algorithms, implementation",22143
+Bear and Five Cards,680,A,"constructive algorithms, implementation",11846
+Bear and Chase,679,D,"brute force, dfs and similar, graphs, implementation, math, probabilities",297
+Bear and Square Grid,679,C,"dfs and similar, dsu, implementation",1111
+Joty and Chocolate,678,C,"implementation, math, number theory",8484
+The Same Calendar,678,B,implementation,3909
+Johny Likes Numbers,678,A,"implementation, math",11627
+Vanya and Balloons,677,E,"binary search, brute force, dp, implementation",569
+Vanya and Label,677,C,"bitmasks, combinatorics, implementation, strings",6152
+Vanya and Food Processor,677,B,"implementation, math",7016
+Vanya and Fence,677,A,implementation,117339
+Theseus and labyrinth,676,D,"graphs, implementation, shortest paths",1787
+Pyramid of Glasses,676,B,"implementation, math, math",5376
+Nicholas and Permutation,676,A,"constructive algorithms, implementation",13157
+Problems for Round,673,B,"greedy, implementation",3463
+Bear and Game,673,A,implementation,9362
+Different is Good,672,B,"constructive algorithms, implementation, strings",16321
+Summer Camp,672,A,implementation,14503
+Recycling Bottles,671,A,"dp, geometry, greedy, implementation",4072
+Magic Powder - 2,670,D2,"binary search, implementation",11745
+Magic Powder - 1,670,D1,"binary search, brute force, implementation",14293
+Cinema,670,C,"implementation, sortings",8593
+Game of Robots,670,B,implementation,10351
+Reberland Linguistics,666,A,"dp, implementation, strings",3359
+Buses Between Cities,665,A,implementation,2749
+International Olympiad,662,D,"constructive algorithms, greedy, implementation, math",1584
+Seating On Bus,660,B,implementation,5014
+Co-prime Array,660,A,"greedy, implementation, math, number theory",8029
+Bicycle Race,659,D,"geometry, implementation, math",5962
+Tanya and Toys,659,C,"greedy, implementation",10846
+Round House,659,A,"implementation, math",14832
+Bear and Reverse Radewoosh,658,A,implementation,6804
+Scrambled,656,B,"*special, implementation",1581
+Bear and Up-Down,653,C,"brute force, implementation",1607
+Bear and Three Balls,653,A,"brute force, implementation, sortings",7641
+Gabriel and Caterpillar,652,A,"implementation, math",4375
+Joysticks,651,A,"dp, greedy, implementation, math",21649
+Amity Assessment,645,A,"brute force, constructive algorithms, implementation",3220
+Hostname Aliases,644,C,"*special, binary search, data structures, implementation, sortings, strings",895
+Bear and Colors,643,A,implementation,4007
+Little Artem and Random Variable,641,D,"dp, implementation, math, probabilities",944
+Little Artem and Dance,641,C,"brute force, constructive algorithms, implementation",2813
+Little Artem and Matrix,641,B,implementation,3657
+Little Artem and Grasshopper,641,A,implementation,5662
+Bear and Polynomials,639,C,"hashing, implementation, math",1181
+Bear and Displayed Friends,639,A,implementation,5688
+Promocodes with Mistakes,637,C,"*special, brute force, constructive algorithms, implementation",2388
+Voting for Photos,637,A,"*special, constructive algorithms, implementation",5102
+Orchestra,635,A,"brute force, implementation",2762
+Island Puzzle,634,A,"constructive algorithms, implementation",3027
+Fibonacci-ish II,633,H,"data structures, implementation",515
+Fibonacci-ish,633,D,"brute force, dp, hashing, implementation, math",2474
+Spy Syndrome 2,633,C,"data structures, dp, hashing, implementation, sortings, string suffix structures, strings",2473
+Messenger,631,D,"data structures, hashing, implementation, string suffix structures, strings",1913
+Print Check,631,B,"constructive algorithms, implementation",7109
+Interview,631,A,"brute force, implementation",8555
+Cracking the Code,630,L,"implementation, math",3322
+Far Relative’s Birthday Cake,629,A,"brute force, combinatorics, constructive algorithms, implementation",12470
+Zbazi in Zeydabad,628,E,"data structures, implementation",784
+Tennis Tournament,628,A,"implementation, math",5914
+Robot Sequence,626,A,"brute force, implementation",5960
+Finals in arithmetic,625,D,"constructive algorithms, implementation, math",608
+K-special Tables,625,C,"constructive algorithms, implementation",6531
+Guest From the Past,625,A,"implementation, math",5261
+Not Equal on a Segment,622,C,"data structures, implementation",5883
+The Time,622,B,implementation,8751
+Infinite Sequence,622,A,"implementation, math",8686
+Wet Shark and Bishops,621,B,"combinatorics, implementation",10199
+Wet Shark and Odd and Even,621,A,implementation,18416
+Grandfather Dovlet’s calculator,620,B,implementation,8548
+Professor GukiZ's Robot,620,A,"implementation, math",11883
+Constellation,618,C,"geometry, implementation",4052
+Slime Combining,618,A,implementation,7806
+Polyline,617,D,"constructive algorithms, implementation",4066
+Watering Flowers,617,C,implementation,4669
+Sum of Remainders,616,E,"implementation, math, number theory",2421
+Comparing Two Long Integers,616,A,"implementation, strings",9112
+Hexagons,615,E,"binary search, implementation, math",947
+Bulbs,615,A,implementation,16112
+Gena's Code,614,B,"implementation, math",6618
+Link/Cut Tree,614,A,"brute force, implementation",7284
+HDD is Outdated Technology,612,B,"implementation, math",6593
+The Text Splitting,612,A,"brute force, implementation, strings",6759
+New Year and Cleaning,611,F,"binary search, implementation",443
+New Year and Domino,611,C,"dp, implementation",8185
+New Year and Old Property,611,B,"bitmasks, brute force, implementation",9008
+New Year and Days,611,A,implementation,11216
+Vika and Squares,610,B,"constructive algorithms, implementation",6819
+Load Balancing,609,C,"implementation, math",6048
+The Best Gift,609,B,"constructive algorithms, implementation",8495
+USB Flash Drives,609,A,"greedy, implementation, sortings",15635
+Saitama Destroys Hotel,608,A,"implementation, math",8535
+Testing Robots,606,B,implementation,2706
+Magic Spheres,606,A,implementation,7288
+Uncowed Forces,604,A,implementation,8319
+Approximating a Constant Range,602,B,"dp, implementation, two pointers",9997
+Two Bases,602,A,"brute force, implementation",7838
+Extract Numbers,600,A,"implementation, strings",4659
+Spongebob and Joke,599,B,implementation,4245
+Patrick and Shopping,599,A,implementation,26666
+Queries on a String,598,B,"implementation, strings",9906
+Wilbur and Array,596,B,"greedy, implementation",9623
+Wilbur and Swimming Pool,596,A,"geometry, implementation",7097
+Vitaly and Night,595,A,"constructive algorithms, implementation",13897
+Edo and Magnets,594,C,"brute force, greedy, implementation, two pointers",663
+2Char,593,A,"brute force, implementation",5587
+PawnChess,592,A,implementation,5863
+Rebranding,591,B,"implementation, strings",7635
+Wizards' Duel,591,A,"implementation, math",13198
+Median Smoothing,590,A,implementation,3858
+Laurenty and Shop,586,B,implementation,5057
+Alena's Schedule,586,A,implementation,9392
+Digits of Number Pi,585,F,"dp, implementation, strings",582
+Gennady the Dentist,585,A,"brute force, implementation",4089
+Robot's Task,583,B,"greedy, implementation",8332
+Asphalting Roads,583,A,implementation,11011
+Three Logos,581,D,"bitmasks, brute force, constructive algorithms, geometry, implementation, math",3203
+Developing Skills,581,C,"implementation, math, sortings",7113
+Luxurious Houses,581,B,"implementation, math",12547
+Vasya the Hipster,581,A,"implementation, math",61486
+Kefa and First Steps,580,A,"brute force, dp, implementation",77377
+Finding Team Member,579,B,"brute force, implementation, sortings",5143
+Multiplication Table,577,A,"implementation, number theory",35543
+Tablecity,575,D,"constructive algorithms, implementation",1790
+Bear and Elections,574,A,"greedy, implementation",8441
+Bear and Poker,573,A,"implementation, math, number theory",15569
+Order Book,572,B,"data structures, greedy, implementation, sortings",6546
+Lengthening Sticks,571,A,"combinatorics, implementation, math",1951
+Replacement,570,C,"constructive algorithms, data structures, implementation",8474
+Simple Game,570,B,"constructive algorithms, games, greedy, implementation, math",15250
+Elections,570,A,implementation,13437
+Music,569,A,"implementation, math",4653
+Primes or Palindromes?,568,A,"brute force, implementation, math, number theory",4925
+Berland National Library,567,B,implementation,7851
+Lineland Mail,567,A,"greedy, implementation",28627
+Gerald is into Art,560,B,"constructive algorithms, implementation",7330
+Currency System in Geraldion,560,A,"implementation, sortings",16171
+Guess Your Way Out! II,558,D,"data structures, implementation, sortings",1081
+Amr and The Large Array,558,B,implementation,7262
+Lala Land and Apple Trees,558,A,"brute force, implementation, sortings",9572
+Pasha and Tea,557,B,"constructive algorithms, implementation, math, sortings",6991
+Ilya and Diplomas,557,A,"greedy, implementation, math",7985
+Case of Fake Numbers,556,B,"brute force, implementation",7390
+Case of a Top Secret,555,D,"binary search, implementation, math",847
+Case of Matryoshkas,555,A,implementation,6067
+Kyoya and Permutation,553,B,"binary search, combinatorics, constructive algorithms, greedy, implementation, math",2073
+Vanya and Brackets,552,E,"brute force, dp, expression parsing, greedy, implementation, strings",1382
+Vanya and Books,552,B,"implementation, math",14801
+Vanya and Table,552,A,"implementation, math",9058
+GukiZ and GukiZiana,551,E,"binary search, data structures, implementation",1566
+GukiZ and Binary Operations,551,D,"combinatorics, implementation, math, matrices, number theory",1677
+ZgukistringZ,551,B,"brute force, constructive algorithms, implementation, strings",3705
+GukiZ and Contest,551,A,"brute force, implementation, sortings",15583
+Brackets in Implications,550,E,"constructive algorithms, greedy, implementation, math",1360
+Regular Bridge,550,D,"constructive algorithms, graphs, implementation",3126
+Two Substrings,550,A,"brute force, dp, greedy, implementation, strings",34082
+Haar Features,549,D,"greedy, implementation",2095
+Face Detection,549,A,"implementation, strings",9008
+Mike and Fun,548,B,"brute force, dp, greedy, implementation",8060
+Mike and Fax,548,A,"brute force, implementation, strings",9587
+Mike and Frog,547,A,"brute force, greedy, implementation, math",2285
+Soldier and Badges,546,B,"brute force, greedy, implementation, sortings",16520
+Soldier and Bananas,546,A,"brute force, implementation, math",149658
+Queue,545,D,"greedy, implementation, sortings",22418
+Toy Cars,545,A,implementation,11055
+Sea and Islands,544,B,"constructive algorithms, implementation",7622
+Set of Strings,544,A,"implementation, strings",7492
+Infinite Inversions,540,E,"binary search, data structures, implementation, sortings, trees",1848
+School Marks,540,B,"greedy, implementation",4528
+Combination Lock,540,A,implementation,30415
+Weird Chess,538,D,"brute force, constructive algorithms, implementation",2394
+Tourist's Notes,538,C,"binary search, brute force, greedy, implementation, math",5692
+Quasi Binary,538,B,"constructive algorithms, dp, greedy, implementation",16807
+Cutting Banner,538,A,"brute force, implementation",6569
+Tavas and SaDDas,535,B,"bitmasks, brute force, combinatorics, implementation",20358
+Tavas and Nafas,535,A,"brute force, implementation",11427
+Berland Local Positioning System,534,E,"constructive algorithms, greedy, hashing, implementation",335
+Exam,534,A,"constructive algorithms, implementation, math",11658
+Board Game,533,C,"games, greedy, implementation, math",2105
+Clique Problem,527,D,"data structures, dp, greedy, implementation, sortings",4455
+Glass Carving,527,C,"binary search, data structures, implementation",6469
+Playing with Paper,527,A,"implementation, math",13695
+Transmitting Levels,526,E,"dp, implementation",993
+Om Nom and Dark Park,526,B,"dfs and similar, greedy, implementation",4409
+King of Thieves,526,A,"brute force, implementation",4687
+"Возможно, вы знаете этих людей?",524,A,implementation,1383
+Statistics of Recompressing Videos,523,D,"*special, data structures, implementation",2133
+Mean Requests,523,B,"*special, implementation",930
+"Rotate, Flip and Zoom",523,A,"*special, implementation",2524
+Photo to Remember,522,B,"*special, data structures, dp, implementation",8404
+Cubes,520,D,"games, greedy, implementation",1521
+Two Buttons,520,B,"dfs and similar, graphs, greedy, implementation, math, shortest paths",43891
+Pangram,520,A,"implementation, strings",80241
+A and B and Team Training,519,C,"greedy, implementation, math, number theory",18766
+A and B and Compilation Errors,519,B,"data structures, implementation, sortings",35605
+A and B and Chess,519,A,implementation,18052
+Pasha and Pipe,518,F,"binary search, brute force, combinatorics, dp, implementation",335
+Arthur and Questions,518,E,"greedy, implementation, math, ternary search",868
+Anya and Smartphone,518,C,"constructive algorithms, data structures, implementation",5823
+Tanya and Postcard,518,B,"greedy, implementation, strings",7630
+Han Solo and Lazer Gun,514,B,"brute force, data structures, geometry, implementation, math",18981
+Chewbaсca and Number,514,A,"greedy, implementation",39673
+Fox And Snake,510,A,implementation,69212
+Sums of Digits,509,C,"dp, greedy, implementation",1922
+Painting Pebbles,509,B,"constructive algorithms, greedy, implementation",9315
+Maximum in Table,509,A,"brute force, implementation",35735
+The Maths Lecture,507,D,"dp, implementation",1583
+Guess Your Way Out!,507,C,"implementation, math, trees",4174
+Amr and Music,507,A,"greedy, implementation, sortings",16053
+Mr. Kitayuta's Gift,505,A,"brute force, implementation, strings",6508
+Misha and Palindrome Degree,501,E,"binary search, combinatorics, implementation",708
+Contest,501,A,implementation,20795
+New Year Book Reading,500,C,"constructive algorithms, greedy, implementation, math",5570
+New Year Transportation,500,A,"dfs and similar, graphs, implementation",46880
+Lecture,499,B,"implementation, strings",35040
+Watching a movie,499,A,"greedy, implementation",13234
+Removing Columns,496,C,"brute force, constructive algorithms, implementation",7442
+Secret Combination,496,B,"brute force, constructive algorithms, implementation",5691
+Minimum Difficulty,496,A,"brute force, implementation, math",15568
+Digital Counter,495,A,implementation,7767
+Vasya and Basketball,493,C,"binary search, brute force, data structures, implementation, sortings, two pointers",6467
+Vasya and Wrestling,493,B,implementation,12633
+Vasya and Football,493,A,implementation,5908
+Vanya and Computer Game,492,D,"binary search, implementation, math, sortings",3033
+Vanya and Lanterns,492,B,"binary search, implementation, math, sortings",65640
+Vanya and Cubes,492,A,implementation,42364
+Up the hill,491,A,"constructive algorithms, implementation",2685
+Restoring Increasing Sequence,490,E,"binary search, brute force, greedy, implementation",1487
+Queue,490,B,"dsu, implementation",5730
+Team Olympiad,490,A,"greedy, implementation, sortings",51379
+Given Length and Sum of Digits...,489,C,"dp, greedy, implementation",42271
+SwapSort,489,A,"greedy, implementation, sortings",9062
+Fight the Monster,487,A,"binary search, brute force, implementation",3610
+Palindrome Transformation,486,C,"brute force, greedy, implementation",11220
+OR in Matrix,486,B,"greedy, hashing, implementation",15877
+Calculating Function,486,A,"implementation, math",98106
+Factory,485,A,"implementation, math, matrices",7851
+Strange Sorting,484,C,"implementation, math",565
+Counterexample ,483,A,"brute force, implementation, math, number theory",21026
+Long Jumps,479,D,"binary search, greedy, implementation",4599
+Towers,479,B,"brute force, constructive algorithms, greedy, implementation, sortings",7373
+Initial Bet,478,A,implementation,24208
+Dreamoon and Stairs,476,A,"implementation, math",37976
+Strongly Connected City,475,B,"brute force, dfs and similar, graphs, implementation",7968
+Bayan Bus,475,A,implementation,4635
+Worms,474,B,"binary search, implementation",40114
+Keyboard,474,A,implementation,39326
+Design Tutorial: Learn from a Game,472,E,"constructive algorithms, implementation",123
+MUH and Important Things,471,B,"implementation, sortings",5807
+MUH and Sticks,471,A,implementation,13053
+Crystal Ball Sequence,470,A,"*special, implementation",651
+Chat Online,469,B,implementation,11917
+I Wanna Be the Guy,469,A,"greedy, implementation",83454
+George and Job,467,C,"dp, implementation",13418
+Fedor and New Game,467,B,"bitmasks, brute force, constructive algorithms, implementation",33567
+George and Accommodation,467,A,implementation,103380
+Cheap Travel,466,A,implementation,54716
+Inbox (100500),465,B,implementation,9683
+inc ARG,465,A,implementation,9515
+Gargari and Permutations,463,D,"dfs and similar, dp, graphs, implementation",5587
+Gargari and Bishops,463,C,"greedy, hashing, implementation",8142
+Caisa and Pylons,463,B,"brute force, implementation, math",24189
+Caisa and Sugar,463,A,"brute force, implementation",8669
+Appleman and Easy Task,462,A,"brute force, implementation",15929
+Appleman and a Sheet of Paper,461,C,"data structures, implementation",1294
+Little Dima and Equation,460,B,"brute force, implementation, math, number theory",11343
+Vasya and Socks,460,A,"brute force, implementation, math",41783
+Pashmak and Flowers,459,B,"combinatorics, implementation, sortings",35873
+Pashmak and Garden,459,A,implementation,29633
+A Lot of Games,455,B,"dfs and similar, dp, games, implementation, strings, trees",5417
+Little Pony and Sort by Shift,454,B,implementation,16929
+Little Pony and Crystal Mine,454,A,implementation,13833
+"Washer, Dryer, Folder",452,D,"greedy, implementation",1451
+Eevee,452,A,"brute force, implementation, strings",7345
+Predict Outcome of the Game,451,C,"brute force, implementation, math",3243
+Sort the Array,451,B,"implementation, sortings",39834
+Game With Sticks,451,A,implementation,58441
+Jzzhu and Sequences,450,B,"implementation, math",23800
+Jzzhu and Children,450,A,implementation,29550
+Divisors,448,E,"brute force, dfs and similar, implementation, number theory",1418
+Suffix Structures,448,B,"implementation, strings",14804
+Rewards,448,A,implementation,23218
+DZY Loves Strings,447,B,"greedy, implementation",19227
+DZY Loves Hash,447,A,implementation,8727
+DZY Loves Sequences,446,A,"dp, implementation, two pointers",11916
+DZY Loves Chessboard,445,A,"dfs and similar, implementation",26021
+Kolya and Tandem Repeat,443,B,"brute force, implementation, strings",3887
+Anton and Letters,443,A,"constructive algorithms, implementation",76632
+Borya and Hanabi,442,A,"bitmasks, brute force, implementation",2060
+Valera and Swaps,441,D,"constructive algorithms, dsu, graphs, implementation, math, string suffix structures",1030
+Valera and Tubes ,441,C,"constructive algorithms, dfs and similar, implementation",10573
+Valera and Fruits,441,B,"greedy, implementation",6741
+Valera and Antique Items,441,A,implementation,17649
+Balancer,440,B,"greedy, implementation",1862
+Forgotten Episode,440,A,implementation,6381
+Devu and Partitioning of the Array,439,C,"brute force, constructive algorithms, implementation, number theory",3737
+"Devu, the Dumb Guy",439,B,"implementation, sortings",13343
+"Devu, the Singer and Churu, the Joker",439,A,"greedy, implementation",23899
+The Child and Set,437,B,"bitmasks, greedy, implementation, sortings",8838
+The Child and Homework,437,A,implementation,8679
+Om Nom and Spiders,436,B,"implementation, math",3011
+Cardiogram,435,C,implementation,2493
+Queue on Bus Stop,435,A,implementation,9256
+Nanami's Digital Board,433,D,"dsu, implementation",1021
+Ryouko's Memory Note,433,C,"implementation, math, sortings",2361
+Kuriyama Mirai's Stones,433,B,"dp, implementation, sortings",32391
+Kitahara Haruki's Gift,433,A,"brute force, implementation",14559
+Football Kit,432,B,"brute force, greedy, implementation",11193
+Choosing Teams,432,A,"greedy, implementation, sortings",52417
+k-Tree,431,C,"dp, implementation, trees",22788
+Shower Line,431,B,"brute force, implementation",10076
+Black Square,431,A,implementation,46921
+Police Patrol,427,E,"greedy, implementation, math, ternary search",1365
+Prison Transfer,427,B,"data structures, implementation",12896
+Police Recruits,427,A,implementation,65196
+Sereja and Mirroring,426,B,implementation,3690
+Sereja and Mugs,426,A,implementation,8485
+Megacity,424,B,"binary search, greedy, implementation, sortings",7052
+Squats,424,A,implementation,7834
+Pasha and Hamsters,421,A,"constructive algorithms, implementation",5466
+Bug in Code,420,C,"data structures, graphs, implementation, two pointers",1173
+Online Meeting,420,B,implementation,997
+Start Up,420,A,implementation,5597
+Football,417,C,"constructive algorithms, graphs, implementation",4514
+Crash,417,B,implementation,1715
+Elimination,417,A,"dp, implementation, math",2764
+Population Size,416,D,"greedy, implementation, math",884
+Booking System,416,C,"binary search, dp, greedy, implementation",7372
+Art Union,416,B,"brute force, dp, implementation",8242
+Guess a number!,416,A,"greedy, implementation, two pointers",8348
+Mashmokh and Tokens,415,B,"binary search, greedy, implementation, math",5932
+Mashmokh and Lights,415,A,implementation,8557
+Spyke Chatting,413,B,implementation,1641
+Data Recovery,413,A,implementation,2445
+E-mail Addresses,412,E,implementation,793
+Pattern,412,C,"implementation, strings",3753
+Poster,412,A,"greedy, implementation",4090
+Kicker,411,C,implementation,1009
+Multi-core Processor,411,B,implementation,1221
+Password Check,411,A,"*special, implementation",6309
+A + B Strikes Back,409,H,"*special, brute force, constructive algorithms, dsu, implementation",8169
+Garland,408,B,implementation,8437
+Line to Cashier,408,A,implementation,10648
+Curious Array,407,C,"brute force, combinatorics, implementation, math",926
+Long Path,407,B,"dp, implementation",6271
+Triangle,407,A,"brute force, geometry, implementation, math",4636
+Hamming Triples,406,E,"implementation, math, two pointers",217
+Toy Sum,405,D,"greedy, implementation, math",3055
+Unusual Product,405,C,"implementation, math",4507
+Gravity Flip,405,A,"greedy, implementation, sortings",85750
+Maze 1D,404,E,"binary search, greedy, implementation",541
+Minesweeper 1D,404,D,"dp, implementation",1895
+Marathon,404,B,"implementation, math",2857
+Valera and X,404,A,implementation,21542
+Two Rooted Trees,403,E,"data structures, implementation, trees",191
+Trees in a Row,402,B,"brute force, implementation",3608
+Team,401,C,"constructive algorithms, greedy, implementation",18220
+Sereja and Contests,401,B,"greedy, implementation, math",4320
+Vanya and Cards,401,A,"implementation, math",15451
+Inna and Huge Candy Matrix,400,C,"implementation, math",2839
+Inna and New Matrix of Candies,400,B,"brute force, implementation, schedules",6953
+Inna and Choose Options,400,A,implementation,6333
+Pages,399,A,implementation,4053
+Cards,398,A,"constructive algorithms, implementation",905
+On Corruption and Numbers,397,B,"constructive algorithms, implementation, math",728
+On Segment's Own Points,397,A,implementation,2549
+Physical Education and Buns,394,D,"brute force, implementation, math",259
+Counting Sticks,394,A,"brute force, implementation",2626
+Genetic Engineering,391,A,"implementation, two pointers",1683
+"Inna, Dima and Song",390,B,implementation,1160
+Inna and Alarm Clock,390,A,implementation,3405
+Fox and Cross,389,B,"greedy, implementation",6671
+Fox and Minimal path,388,B,"bitmasks, constructive algorithms, graphs, implementation, math",2367
+George and Number,387,C,"greedy, implementation",2137
+George and Sleep,387,A,implementation,8910
+Game with Points,386,D,"dp, graphs, implementation, shortest paths",389
+"Fly, freebies, fly!",386,B,"binary search, brute force, implementation",2013
+Second-Price Auction,386,A,implementation,5569
+Bear and Prime Numbers,385,C,"binary search, brute force, data structures, dp, implementation, math, number theory",9059
+Bear and Strings,385,B,"brute force, greedy, implementation, math, strings",9184
+Bear and Raspberry,385,A,"brute force, greedy, implementation",15635
+Multitasking,384,B,"greedy, implementation, sortings, two pointers",3386
+Coder,384,A,implementation,15115
+Volcanoes,383,B,"binary search, implementation, sortings, two pointers",632
+Ksenia and Pawns,382,D,"dfs and similar, graphs, implementation, trees",625
+Arithmetic Progression,382,C,"implementation, sortings",7938
+Ksenia and Pan Scales,382,A,"greedy, implementation",11198
+Sereja and Stairs,381,B,"greedy, implementation, sortings",6427
+Sereja and Dima,381,A,"greedy, implementation, two pointers",53327
+Sereja and Tree,380,B,"graphs, implementation",517
+New Year Present,379,B,"constructive algorithms, implementation",6656
+New Year Candles,379,A,implementation,41764
+Semifinals,378,B,"implementation, sortings",4949
+I.O.U.,376,B,implementation,5863
+Lever,376,A,"implementation, math",8744
+Red and Black Tree,375,E,"dp, implementation, math",364
+Maximum Submatrix 2,375,B,"data structures, dp, implementation, sortings",4865
+Inna and Babies,374,E,"binary search, data structures, dsu, geometry, implementation",171
+Inna and Dima,374,C,"dfs and similar, dp, graphs, implementation",2578
+Inna and Pink Pony,374,A,"greedy, implementation",2807
+Making Sequences is Fun,373,B,"binary search, implementation, math",2359
+Collecting Beats is Fun,373,A,implementation,9898
+Vessels,371,D,"data structures, dsu, implementation, trees",4956
+K-Periodic Array,371,A,"greedy, implementation, math",5724
+Broken Monitor,370,D,"brute force, constructive algorithms, greedy, implementation",596
+Berland Bingo,370,B,implementation,2420
+Valera and Contest,369,B,"constructive algorithms, implementation, math",6123
+Valera and Plates,369,A,"greedy, implementation",10086
+Sereja and Coat Rack,368,A,implementation,7111
+Sereja and Algorithm ,367,A,"data structures, implementation",4239
+Dima and Magic Guitar,366,E,"brute force, implementation, math",718
+Dima and To-do List,366,B,"brute force, implementation",6597
+Dima and Guards,366,A,implementation,4416
+The Fibonacci Segment,365,B,implementation,13614
+Good Number,365,A,implementation,16215
+Matrix,364,A,"combinatorics, data structures, implementation",4538
+Two Circles,363,E,"brute force, data structures, implementation",182
+Fixing Typos,363,C,"greedy, implementation",12623
+Soroban,363,A,implementation,9882
+Insertion Sort,362,C,"data structures, dp, implementation, math",1556
+Petya and Staircases,362,B,"implementation, sortings",13134
+Levko and Table,361,A,"constructive algorithms, implementation",15482
+Levko and Array Recovery,360,A,"greedy, implementation",2008
+Table,359,A,"constructive algorithms, greedy, implementation",8149
+Dima and Kicks,358,E,"brute force, dsu, graphs, implementation",371
+Dima and Containers,358,C,"constructive algorithms, greedy, implementation",1856
+Dima and Continuous Line,358,A,"brute force, implementation",7440
+Flag Day,357,B,"constructive algorithms, implementation",7809
+Group of Students,357,A,"brute force, greedy, implementation",6494
+Xenia and String Problem,356,E,"dp, hashing, implementation, string suffix structures, strings",373
+Compartments,356,C,"combinatorics, constructive algorithms, greedy, implementation",1207
+Xenia and Hamming,356,B,"implementation, math",1857
+Vasya and Public Transport,355,B,"greedy, implementation",4328
+Vasya and Digital Root,355,A,"constructive algorithms, implementation",8984
+Find Maximum,353,C,"implementation, math, number theory",4581
+Two Heaps,353,B,"combinatorics, constructive algorithms, greedy, implementation, math, sortings",2150
+Domino,353,A,"implementation, math",16683
+Jeff and Periods,352,B,"implementation, sortings",15034
+Jeff and Digits,352,A,"brute force, implementation, math",23017
+Jeff and Rounding,351,A,"dp, greedy, implementation, math",2652
+Bombs,350,C,"greedy, implementation, sortings",6297
+TL,350,A,"brute force, greedy, implementation",15002
+Color the Fence,349,B,"data structures, dp, greedy, implementation",12994
+Cinema Line,349,A,"greedy, implementation",26931
+Fixed Points,347,B,"brute force, implementation, math",8907
+Difference Row,347,A,"constructive algorithms, implementation, sortings",8426
+Magnets,344,A,implementation,101162
+Alternating Current,343,B,"data structures, greedy, implementation",11792
+Xenia and Spies,342,B,"brute force, greedy, implementation",3924
+Xenia and Divisors,342,A,"greedy, implementation",11604
+Tourist Problem,340,C,"combinatorics, implementation, math",3995
+Xenia and Ringroad,339,B,implementation,61604
+Helpful Maths,339,A,"greedy, implementation, sortings, strings",178687
+Vasily the Bear and Painting Square,336,E,"bitmasks, combinatorics, dp, implementation",103
+Vasily the Bear and Sequence,336,C,"brute force, greedy, implementation, number theory",2343
+Vasily the Bear and Triangle,336,A,"implementation, math",9565
+Candy Bags,334,A,implementation,17372
+Characteristics of Rectangles,333,D,"binary search, bitmasks, brute force, implementation, sortings",1790
+Binary Key,332,E,"dp, greedy, implementation",285
+Maximum Absurdity,332,B,"data structures, dp, implementation",7601
+Down the Hatch!,332,A,implementation,3489
+Deja Vu,331,E1,"constructive algorithms, graphs, implementation",132
+Escaping on Beaveractor,331,D3,"data structures, implementation, trees",158
+Escaping on Beaveractor,331,D1,"dfs and similar, implementation",182
+Shave Beaver!,331,B1,implementation,696
+Oh Sweet Beaverette,331,A1,"brute force, implementation",1284
+Cakeminator,330,A,"brute force, implementation",25733
+IQ Test,328,A,implementation,1810
+Flipping Game,327,A,"brute force, dp, implementation",37477
+Square and Rectangles,325,A,implementation,2102
+Ciel and Robot,321,A,"binary search, implementation, math",3478
+Psychos in a Line,319,B,"data structures, implementation",3869
+Strings of Power,318,B,"implementation, strings, two pointers",7131
+Ants,317,B,"brute force, implementation",1516
+Suns and Rays,316,F3,"constructive algorithms, dfs and similar, implementation",158
+Suns and Rays,316,F1,"dfs and similar, implementation",159
+Sereja and Array,315,B,implementation,6627
+Sereja and Contest,314,A,implementation,2025
+Ilya and Matrix,313,C,"constructive algorithms, greedy, implementation, sortings",5397
+Ilya and Queries,313,B,"dp, implementation",38029
+Ilya and Bank Account,313,A,"implementation, number theory",49571
+Whose sentence is it?,312,A,"implementation, strings",4728
+The Closest Pair,311,A,"constructive algorithms, implementation",3933
+Candies,306,A,implementation,5796
+Ivan and Powers of Two,305,C,"greedy, implementation",2352
+Continued Fractions,305,B,"brute force, implementation, math",1977
+Strange Addition,305,A,"brute force, constructive algorithms, implementation",4435
+Calendar,304,B,"brute force, implementation",2858
+Rectangle Puzzle II,303,B,"implementation, math",1305
+Lucky Permutation Triple,303,A,"constructive algorithms, implementation, math",7409
+Eugeny and Play List,302,B,"binary search, implementation, two pointers",7409
+Eugeny and Array,302,A,implementation,8474
+Array,300,A,"brute force, constructive algorithms, implementation",20146
+Ksusha the Squirrel,299,B,"brute force, implementation",4690
+Sail,298,B,"brute force, greedy, implementation",12775
+Snow Footprints,298,A,"greedy, implementation",9995
+Greg and Array,295,A,"data structures, implementation",14721
+Shaass and Painter Robot,294,D,"brute force, implementation, number theory",284
+Shaass and Oskols,294,A,"implementation, math",20812
+Network Topology,292,B,"graphs, implementation",6904
+SMSC,292,A,implementation,2583
+Network Mask,291,C,"*special, bitmasks, brute force, implementation",1639
+Command Line Arguments,291,B,"*special, implementation, strings",2965
+Spyke Talks,291,A,"*special, implementation, sortings",5839
+Orange,290,D,"*special, implementation",1735
+WTF?,290,C,"*special, graph matchings, implementation, trees",1458
+QR code,290,B,"*special, implementation",2314
+Mysterious strings,290,A,"*special, implementation",2845
+Polo the Penguin and Matrix,289,B,"brute force, dp, implementation, sortings, ternary search",16075
+Polo the Penguin and Segments ,289,A,"brute force, implementation",8228
+Polo the Penguin and Lucky Numbers,288,E,"dp, implementation, math",246
+Polo the Penguin and XOR operation,288,C,"implementation, math",2173
+IQ Test,287,A,"brute force, implementation",17295
+Main Sequence,286,C,"greedy, implementation",1267
+Shifting,286,B,implementation,1079
+Permutation Sum,285,D,"bitmasks, combinatorics, dp, implementation, meet-in-the-middle",1476
+Building Permutation,285,C,"greedy, implementation, sortings",20993
+Find Marble,285,B,implementation,14308
+Slightly Decreasing Permutations,285,A,"greedy, implementation",12335
+Cows and Poker Game,284,B,"brute force, implementation",6502
+Cows and Primitive Roots,284,A,"implementation, math, number theory",6162
+Cows and Sequence,283,A,"constructive algorithms, data structures, implementation",6328
+XOR and OR,282,C,"constructive algorithms, implementation, math",8771
+Bit++,282,A,implementation,207021
+Nearest Fraction,281,B,"brute force, implementation, two pointers",2883
+Word Capitalization,281,A,"implementation, strings",176506
+Sequence Transformation,280,E,"brute force, data structures, dp, implementation, math",175
+k-Maximum Subsequence Sum,280,D,"data structures, flows, graphs, implementation",1026
+Game on Tree,280,C,"implementation, math, probabilities, trees",3159
+Maximum Xor Secondary,280,B,"data structures, implementation, two pointers",4210
+Ladder,279,C,"dp, implementation, two pointers",7799
+Books,279,B,"binary search, brute force, implementation, two pointers",42283
+Point on Spiral,279,A,"brute force, geometry, implementation",5350
+Circle Line,278,A,implementation,10323
+Game,277,C,"games, implementation",440
+Little Girl and Maximum XOR,276,D,"bitmasks, dp, greedy, implementation, math",12115
+Little Girl and Maximum Sum,276,C,"data structures, greedy, implementation, sortings",21796
+Lunch Rush,276,A,implementation,25286
+Convex Shape,275,B,"constructive algorithms, implementation",2727
+Lights Out,275,A,implementation,25965
+Mirror Room,274,E,"data structures, implementation",271
+Dima and Staircase,272,C,"data structures, implementation",6540
+Dima and Sequence,272,B,"implementation, math",3810
+Dima and Friends,272,A,"implementation, math",21478
+Secret,271,C,"constructive algorithms, implementation",2853
+Multithreading,270,B,"data structures, greedy, implementation",4017
+Fancy Fence,270,A,"geometry, implementation, math",40875
+Beautiful Sets of Points,268,C,"constructive algorithms, implementation",12926
+Buttons,268,B,"implementation, math",28949
+Queue at the School,266,B,"constructive algorithms, graph matchings, implementation, shortest paths",116096
+Stones on the Table,266,A,implementation,161020
+Roadside Trees (Simplified Edition),265,B,"greedy, implementation",16114
+Colorful Stones (Simplified Edition),265,A,implementation,31604
+Escape from Stones,264,A,"constructive algorithms, data structures, implementation, two pointers",10351
+Circle of Numbers,263,C,"brute force, dfs and similar, implementation",1033
+Squares,263,B,"greedy, implementation, sortings",8464
+Beautiful Matrix,263,A,implementation,202036
+Roma and Lucky Numbers,262,A,implementation,17668
+Balls and Boxes,260,C,"constructive algorithms, greedy, implementation",2872
+Ancient Prophesy,260,B,"brute force, implementation, strings",3646
+Adding Digits,260,A,"implementation, math",13372
+Little Elephant and Magic Square,259,B,"brute force, implementation",13347
+Greedy Elevator,257,E,"data structures, implementation",260
+Playing Cubes,257,B,"games, greedy, implementation",6602
+Sockets,257,A,"greedy, implementation, sortings",6225
+Furlo and Rublo and Game,255,E,"games, implementation, math",805
+Mr. Bender and Square,255,D,"binary search, implementation, math",1871
+Code Parsing,255,B,implementation,4747
+Greg's Workout,255,A,implementation,26082
+Dormitory,254,E,"dp, implementation",457
+Rats,254,D,"brute force, dfs and similar, graphs, implementation, shortest paths",458
+Jury Size,254,B,"brute force, implementation",2093
+Printer,253,E,"binary search, data structures, implementation, sortings",491
+Little Xor,252,A,"brute force, implementation",4916
+Tree and Table,251,E,"dfs and similar, dp, implementation, trees",159
+Playing with Permutations,251,B,"implementation, math",1223
+Restoring IPv6,250,B,"implementation, strings",1892
+Sweets for Everyone!,248,D,"binary search, greedy, implementation",459
+Cupboards,248,A,implementation,20000
+Log Stream Analysis,245,F,"binary search, brute force, implementation, strings",834
+Mishap in Club,245,E,"greedy, implementation",3156
+Internet Address,245,B,"implementation, strings",4973
+System Administrator,245,A,implementation,7529
+Dividing Orange,244,A,implementation,7535
+Colorado Potato Beetle,243,C,"dfs and similar, implementation",512
+Big Segment,242,B,"implementation, sortings",14482
+Heads or Tails,242,A,"brute force, implementation",6096
+Race,241,F,"brute force, implementation",254
+Mirror Box,241,C,"geometry, implementation",500
+Easy Tape Programming,239,B,"brute force, implementation",1323
+Two Bags of Potatoes,239,A,"greedy, implementation, math",17161
+Tape Programming,238,D,"data structures, implementation",234
+Young Table,237,B,"implementation, sortings",2148
+Free Cash,237,A,implementation,24229
+Easy Number Challenge,236,B,"implementation, number theory",12563
+Boy or Girl,236,A,"brute force, implementation, strings",172639
+Number Challenge,235,E,"combinatorics, dp, implementation, math, number theory",692
+Practice,234,G,"constructive algorithms, divide and conquer, implementation",1420
+Champions' League,234,E,implementation,958
+Cinema,234,D,implementation,1491
+Weather,234,C,"dp, implementation",5170
+Lefthanders and Righthanders ,234,A,implementation,4314
+Perfect Permutation,233,A,"implementation, math",36994
+T-primes,230,B,"binary search, implementation, math, number theory",63603
+Two Tables,228,B,"brute force, implementation",3381
+Is your horseshoe on the other hoof?,228,A,implementation,91512
+Effective Approach,227,B,implementation,24368
+Anniversary,226,C,"data structures, implementation, math, matrices, number theory",781
+Snake,225,D,"bitmasks, dfs and similar, graphs, implementation",884
+Array,224,B,"bitmasks, implementation, two pointers",6922
+Bracket Sequence,223,A,"data structures, expression parsing, implementation",2429
+Reducing Fractions,222,C,"implementation, math, number theory, sortings",2006
+Cosmic Tables,222,B,"data structures, implementation",5790
+Shooshuns and Sequence ,222,A,"brute force, implementation",9870
+Little Elephant and Numbers,221,B,implementation,4409
+Little Elephant and Function,221,A,"implementation, math",13918
+Little Elephant and Problem,220,A,"implementation, sortings",11473
+Special Offer! Super Price 999 Bourles!,219,B,implementation,5552
+k-String,219,A,"implementation, strings",23751
+Airport,218,B,implementation,14853
+Mountain Scenery,218,A,"brute force, constructive algorithms, implementation",8401
+Forming Teams,216,B,"dfs and similar, implementation",5737
+Tiling with Hexagons,216,A,"implementation, math",4792
+Crosses,215,C,"brute force, implementation",469
+Bicycle Chain,215,A,"brute force, implementation",13118
+Polycarpus is Looking for Good Substrings,212,B,"bitmasks, hashing, implementation",312
+"Prizes, Prizes, more Prizes",208,D,implementation,7379
+Little Elephant and Rozdil,205,A,"brute force, implementation",20139
+Little Elephant and Strings,204,E,"data structures, implementation, string suffix structures, two pointers",1007
+Hit Ball,203,D,"geometry, implementation, math",1378
+Game on Paper,203,B,"brute force, implementation",2498
+Two Problems,203,A,"brute force, implementation",4037
+LLPS,202,A,"binary search, bitmasks, brute force, greedy, implementation, strings",14981
+Tractor College,200,E,"implementation, math, number theory, ternary search",322
+Programming Language,200,D,"binary search, brute force, expression parsing, implementation",851
+Football Championship,200,C,"brute force, implementation",979
+Drinks,200,B,"implementation, math",96691
+Hexadecimal's theorem,199,A,"brute force, constructive algorithms, implementation, number theory",23037
+About Bacteria,198,A,"implementation, math",3041
+Try and Catch,195,C,"expression parsing, implementation",1072
+After Training,195,B,"data structures, implementation, math",4965
+Exams,194,A,"implementation, math",8828
+Walking in the Rain,192,B,"brute force, implementation",5976
+Funky Numbers,192,A,"binary search, brute force, implementation",9697
+Stack,188,H,"*special, expression parsing, implementation",236
+Array Sorting,188,G,"*special, implementation",191
+Binary Notation,188,F,"*special, implementation",275
+HQ9+,188,E,"*special, implementation",413
+Asterisks,188,D,"*special, implementation",618
+LCM,188,C,"*special, implementation, math",421
+A + Reverse B,188,B,"*special, implementation",605
+Comparing Strings,186,A,"implementation, strings",15428
+Common Divisors,182,D,"brute force, hashing, implementation, math, strings",7520
+Vasya's Calendar,182,B,implementation,6579
+Battlefield,182,A,"geometry, graphs, implementation, shortest paths",266
+Series of Crimes,181,A,"brute force, geometry, implementation",6229
+Mathematical Analysis Rocks!,180,F,"constructive algorithms, implementation, math",2275
+Defragmentation,180,A,implementation,512
+Good Matrix Elements,177,A2,implementation,6575
+Good Matrix Elements,177,A1,implementation,7387
+Gnomes of Might and Magic,175,F,"data structures, graphs, implementation, shortest paths",59
+Geometry Horse,175,C,"greedy, implementation, sortings, two pointers",1228
+Plane of Tanks: Pro,175,B,implementation,1325
+Robot Bicorn Attack,175,A,"brute force, implementation",2302
+File List,174,B,"dp, greedy, implementation",2105
+Deputies,173,D,"constructive algorithms, graphs, greedy, implementation",239
+Rock-Paper-Scissors,173,A,"implementation, math",2149
+Bus,172,C,"*special, implementation, sortings",1110
+Pseudorandom Sequence Period,172,B,"*special, implementation, number theory",2600
+Phone Code,172,A,"*special, brute force, implementation",5578
+A polyline,171,H,"*special, implementation",246
+ucyhf,171,F,"*special, brute force, implementation, number theory",1141
+A Piece of Cake,171,C,"*special, implementation",965
+Wizards and Minimal Spell,168,B,"implementation, strings",1174
+Wizards and Demonstration,168,A,"implementation, math",9939
+Wizards and Trolleybuses,167,A,"implementation, math",1971
+Rank List,166,A,"binary search, implementation, sortings",15212
+Burning Midnight Oil,165,B,"binary search, implementation",15042
+Supercentral Point,165,A,implementation,20985
+Pentagonal numbers,162,A,"*special, implementation",768
+Find Pair,160,C,"implementation, math, sortings",3299
+Friends or Not,159,A,"*special, greedy, implementation",2411
+Cd and pwd commands,158,C,"*special, data structures, implementation",8023
+Taxi,158,B,"*special, greedy, implementation",76780
+Next Round,158,A,"*special, implementation",210897
+Suspects,156,B,"constructive algorithms, data structures, implementation",2128
+Steps,152,B,"binary search, implementation",6068
+Marks,152,A,implementation,15122
+Phone Numbers,151,B,"implementation, strings",6059
+Soft Drinking,151,A,"implementation, math",57533
+Martian Clock,149,B,implementation,2168
+Business trip,149,A,"greedy, implementation, sortings",34715
+Escape,148,B,"implementation, math",5079
+Insomnia cure,148,A,"constructive algorithms, implementation, math",79443
+Punctuation,147,A,"implementation, strings",3389
+Lucky Mask,146,B,"brute force, implementation",4061
+Lucky Ticket,146,A,implementation,13213
+Lucky Pair,145,D,"combinatorics, data structures, implementation",228
+Lucky Conversion,145,A,"greedy, implementation",6796
+Anagram Search,144,C,"implementation, strings",3803
+Meeting,144,B,implementation,4844
+Arrival of the General,144,A,implementation,81215
+Help Kingdom of Far Far Away 2,143,B,"implementation, strings",4818
+Help General,142,B,"constructive algorithms, greedy, implementation",2088
+Amusing Joke,141,A,"implementation, sortings, strings",71136
+New Year Cards,140,B,"brute force, greedy, implementation",1451
+Wallpaper,139,B,"implementation, math",1233
+Petr and Book,139,A,implementation,25394
+Literature Lesson,138,A,implementation,2272
+Last Chance,137,E,"data structures, implementation, strings",1136
+Postcards and photos,137,A,implementation,6680
+Ternary Logic,136,B,"implementation, math",4499
+Presents,136,A,implementation,99738
+Cycle,135,D,"brute force, dfs and similar, implementation",288
+Replacement,135,A,"greedy, implementation, sortings",7225
+Average Numbers,134,A,"brute force, implementation",3464
+Unary,133,B,implementation,8407
+HQ9+,133,A,implementation,92321
+Piet,132,B,implementation,463
+Turing Tape,132,A,implementation,2685
+Opposites Attract,131,B,"implementation, math",6597
+cAPS lOCK,131,A,"implementation, strings",75152
+Gnikool Ssalg,130,B,"*special, implementation, strings",494
+Hexagonal numbers,130,A,"*special, implementation",1450
+Students and Shoelaces,129,B,"brute force, dfs and similar, graphs, implementation",11167
+Cookies,129,A,implementation,19835
+Numbers,128,D,"constructive algorithms, implementation",1064
+String,128,B,"brute force, constructive algorithms, hashing, implementation, string suffix structures, strings",2362
+Canvas Frames,127,B,implementation,7534
+Simple XML,125,B,implementation,2604
+Permutations,124,B,"brute force, combinatorics, implementation",3425
+Prime Permutation,123,A,"implementation, number theory, strings",3430
+Lucky Substring,122,B,"brute force, implementation",11507
+Lucky Segments,121,D,"binary search, implementation, two pointers",259
+Lucky Sum,121,A,implementation,8330
+Boom,120,G,implementation,662
+Winnie-the-Pooh and honey,120,C,"implementation, math",3468
+Quiz League,120,B,implementation,3223
+Elevator,120,A,"brute force, implementation, math",4296
+Before Exam,119,B,"constructive algorithms, implementation, sortings",1034
+Epic Game,119,A,implementation,26122
+Present from Lena,118,B,"constructive algorithms, implementation",26355
+String Task,118,A,"implementation, strings",166269
+Tree or not Tree,117,E,"data structures, divide and conquer, implementation, trees",284
+Elevator,117,A,"implementation, math",1946
+Little Pigs and Wolves,116,B,"greedy, implementation",13034
+Tram,116,A,implementation,120408
+Sleeping,113,E,"combinatorics, implementation, math",108
+Grammar Lessons,113,A,"implementation, strings",2163
+Petya and Square,112,B,"implementation, math",3972
+Petya and Strings,112,A,"implementation, strings",189254
+Nearly Lucky Number,110,A,implementation,127448
+Lucky Sum of Digits,109,A,"brute force, implementation",15628
+Palindromic Times,108,A,"implementation, strings",8783
+Treasure Island,106,D,"brute force, implementation",1253
+Choosing Laptop,106,B,"brute force, implementation",5659
+Card Game,106,A,implementation,7159
+Entertaining Geodetics,105,D,"brute force, dsu, implementation",130
+Item World,105,C,"brute force, implementation, sortings",262
+Transmigration,105,A,implementation,1743
+Blackjack,104,A,implementation,14024
+Testing Pants for Sadness,103,A,"greedy, implementation, math",5651
+Sum of Digits,102,B,implementation,22603
+Vectors,101,C,"implementation, math",672
+Battleship,100,H,"*special, dfs and similar, implementation",67
+Name the album,100,G,"*special, data structures, implementation",100
+Polynom,100,F,"*special, implementation",124
+A+B,100,C,"*special, implementation",481
+Friendly Numbers,100,B,"*special, implementation",504
+Carpeting the Room,100,A,"*special, implementation",796
+Help Chef Gerasim,99,B,"implementation, sortings",2792
+Help King,98,B,"implementation, probabilities, trees",106
+Help Victoria the Wise,98,A,"brute force, implementation",1141
+Robot in Basement,97,D,"bitmasks, brute force, implementation",217
+Domino,97,A,"brute force, implementation",243
+Football,96,A,"implementation, strings",135608
+Hockey,95,A,"implementation, strings",1588
+Friends,94,B,"graphs, implementation, math",4264
+Restoring Password,94,A,"implementation, strings",9645
+Azembler,93,C,"brute force, implementation",381
+Frames,93,A,implementation,1866
+Chips,92,A,"implementation, math",16250
+African Crossword,90,B,"implementation, strings",4922
+Chip Play,89,C,"brute force, data structures, implementation",591
+Widget Library,89,B,"dp, expression parsing, graphs, implementation",500
+Keyboard,88,B,implementation,4091
+Chord,88,A,"brute force, implementation",3650
+Beautiful Road,87,D,"dfs and similar, dp, dsu, graphs, implementation, sortings, trees",793
+Vasya and Types,87,B,"implementation, strings",1085
+Trains,87,A,"implementation, math",4980
+Powerful array,86,D,"data structures, implementation, math, two pointers",11462
+Sum of Medians,85,D,"binary search, brute force, data structures, implementation",1766
+Domino,85,A,"constructive algorithms, implementation",1709
+Biathlon,84,C,"binary search, implementation",1541
+Sets,82,B,"constructive algorithms, hashing, implementation",1904
+Double Cola,82,A,"implementation, math",28394
+Pairs,81,E,"dfs and similar, dp, dsu, graphs, implementation, trees",301
+Sequence Formatting,81,B,"implementation, strings",1838
+Plug-in,81,A,implementation,9119
+Colorful Field,79,B,"implementation, sortings",6439
+Easter Eggs,78,B,"constructive algorithms, implementation",11899
+Haiku,78,A,"implementation, strings",10340
+Domino Carpet,77,D,"dp, implementation",286
+Heroes,77,A,"brute force, implementation",1698
+Points,76,E,"implementation, math",1588
+Big Maximum Sum,75,D,"data structures, dp, greedy, implementation, math, trees",1659
+Facetook Priority Wall,75,B,"expression parsing, implementation, strings",3061
+Life Without Zeros,75,A,implementation,22960
+Room Leader,74,A,implementation,4739
+Goofy Numbers,72,I,"*special, implementation",437
+Reverse It!,72,H,"*special, implementation",248
+INI-file,72,B,"*special, implementation",63
+Solitaire,71,D,"brute force, implementation",566
+Progress Bar,71,B,"implementation, math",4167
+Information Reform,70,E,"dp, implementation, trees",457
+Subsegments,69,E,"data structures, implementation",3716
+Game,69,C,implementation,547
+Bets,69,B,"greedy, implementation",3108
+Young Physicist,69,A,"implementation, math",141530
+Irrational problem,68,A,"implementation, number theory",4605
+Partial Teacher,67,A,"dp, graphs, greedy, implementation",1936
+Petya and File System,66,C,"data structures, implementation",975
+Petya and Countryside,66,B,"brute force, implementation",18307
+Petya and Java,66,A,"implementation, strings",6007
+Harry Potter and Moving Staircases,65,E,"dfs and similar, implementation",80
+Harry Potter and the History of Magic,65,B,"brute force, greedy, implementation",1277
+Harry Potter and Three Spells,65,A,"implementation, math",1740
+Table,64,C,"*special, greedy, implementation, math",317
+Factorial,64,A,"*special, implementation",1888
+Sweets Game,63,E,"bitmasks, dfs and similar, dp, games, implementation",687
+Bulls and Cows,63,C,"brute force, implementation",1561
+Settlers' Training,63,B,implementation,4528
+Sinking Ship,63,A,"implementation, sortings, strings",10288
+Inquisition,62,C,"geometry, implementation, sortings",238
+Tyndex.Brome,62,B,"binary search, implementation",1221
+Ultra-Fast Mathematician,61,A,implementation,94232
+Where Are My Flakes?,60,A,"implementation, two pointers",3403
+Team Arrangement,59,D,"constructive algorithms, greedy, implementation",575
+Fortune Telling,59,B,"implementation, number theory",6345
+Word,59,A,"implementation, strings",144704
+Martian Architecture,57,B,implementation,941
+Square Earth?,57,A,"dfs and similar, greedy, implementation",2728
+Corporation Mail,56,C,"data structures, expression parsing, implementation",1088
+Spoilt Permutation,56,B,implementation,3495
+Bar,56,A,implementation,7924
+Flea travel,55,A,"implementation, math",3199
+Cutting Jigsaw Puzzle,54,B,"hashing, implementation",714
+Presents,54,A,implementation,1914
+Blog Photo,53,B,"binary search, implementation",1305
+Autocomplete,53,A,implementation,4573
+123-sequence,52,A,implementation,7719
+Geometrical problem,51,D,implementation,399
+Cheaterius's Problem,51,A,implementation,1706
+Game,49,D,"brute force, dp, implementation",1746
+Sleuth,49,A,implementation,12220
+Land Lot,48,B,"brute force, implementation",2487
+Rock-paper-scissors,48,A,"implementation, schedules",5249
+Crossword,47,C,implementation,709
+Coins,47,B,implementation,12130
+Parking Lot,46,D,"data structures, implementation",931
+T-shirts from Sponsor,46,B,implementation,3395
+Ball Game,46,A,"brute force, implementation",8074
+Codecraft III,45,A,implementation,5772
+Shooting Gallery,44,G,"data structures, implementation",319
+Holidays,44,C,implementation,2952
+Cola,44,B,implementation,1806
+Indian Summer,44,A,implementation,8280
+Race,43,E,"brute force, implementation, two pointers",351
+Journey,43,D,"brute force, constructive algorithms, implementation",1012
+Letter,43,B,"implementation, strings",14369
+Game of chess unfinished,42,B,implementation,889
+Guilty --- to the kitchen!,42,A,"greedy, implementation",2654
+Email address,41,C,"expression parsing, implementation",3452
+Translation,41,A,"implementation, strings",121086
+Berland Square,40,C,"implementation, math",233
+Find Color,40,A,"constructive algorithms, geometry, implementation, math",3622
+Spelling Check,39,J,"hashing, implementation, strings",2610
+Multiplication Table,39,H,implementation,2456
+Inverse Function,39,G,implementation,115
+Pacifist frogs,39,F,implementation,1391
+Vasya the Architect,38,D,implementation,447
+Chess,38,B,"brute force, implementation, math",3266
+Army,38,A,implementation,18489
+Computer Game,37,B,"greedy, implementation",835
+Two Paths,36,E,"constructive algorithms, dsu, graphs, implementation",429
+Bowls,36,C,"geometry, implementation",272
+Fractal,36,B,implementation,1345
+Extra-terrestrial Intelligence,36,A,implementation,2791
+Warehouse,35,B,implementation,964
+Shell Game,35,A,implementation,6340
+Collisions,34,E,"brute force, implementation, math",554
+Page Numbers,34,C,"expression parsing, implementation, sortings, strings",3875
+Reconnaissance 2,34,A,implementation,25667
+What is for dinner?,33,A,"greedy, implementation",3633
+Hide-and-Seek,32,E,"geometry, implementation",309
+Constellation,32,D,implementation,1187
+Borze,32,B,"expression parsing, implementation",52063
+Chocolate,31,D,"dfs and similar, implementation",947
+Schedule,31,C,implementation,1645
+Sysadmin Bob,31,B,"greedy, implementation, strings",3910
+Worms Evolution,31,A,implementation,9390
+Codeforces World Finals,30,B,implementation,1083
+Mail Stamps,29,C,"data structures, dfs and similar, graphs, implementation",4282
+Traffic Lights,29,B,implementation,2699
+Bender Problem,28,A,implementation,727
+Next Test,27,A,"implementation, sortings",18125
+Parquet,26,C,"combinatorics, constructive algorithms, greedy, implementation",783
+Phone numbers,25,B,implementation,8672
+Sequence of points,24,C,"geometry, implementation, math",1173
+F1 Champions,24,B,implementation,1605
+Intersection,21,B,"implementation, math",1256
+Jabber ID,21,A,"implementation, strings",1639
+BerOS file system,20,A,implementation,5511
+World Football Cup,19,A,implementation,2453
+Stripe,18,C,"data structures, implementation",11644
+Logging,16,D,"implementation, strings",1444
+Burglar and Matches,16,B,"greedy, implementation, sortings",15593
+Flag,16,A,implementation,12434
+Map,15,D,"data structures, implementation, sortings",652
+Cottage Village,15,A,"implementation, sortings",3320
+Four Segments,14,C,"brute force, constructive algorithms, geometry, implementation, math",2896
+Young Photographer,14,B,implementation,6247
+Letter,14,A,implementation,9437
+Letter A,13,B,"geometry, implementation",754
+Numbers,13,A,"implementation, math",6860
+Fruits,12,C,"greedy, implementation, sortings",5356
+Correct Solution?,12,B,"implementation, sortings",7473
+Super Agent,12,A,implementation,10772
+How Many Squares?,11,C,implementation,569
+Increasing Sequence,11,A,"constructive algorithms, implementation, math",11252
+Cinema Cashier,10,B,"dp, implementation",1622
+Power Consumption Calculation,10,A,implementation,5998
+Hexadecimal's Numbers,9,C,"brute force, implementation, math",11792
+Running Student,9,B,"brute force, geometry, implementation",4882
+Obsession with Robots,8,B,"constructive algorithms, graphs, implementation",3821
+Defining Macros,7,E,"dp, expression parsing, implementation",652
+Memory Manager,7,B,implementation,2224
+President's Office,6,B,implementation,11285
+Follow Traffic Rules,5,D,"implementation, math",1387
+Center Alignment,5,B,"implementation, strings",5214
+Chat Servers Outgoing Traffic,5,A,implementation,8653
+Registration System,4,C,"data structures, hashing, implementation",69293
+Tic-tac-toe,3,C,"brute force, games, implementation",6498
+Winner,2,A,"hashing, implementation",22658
+Spreadsheet,1,B,"implementation, math",20402

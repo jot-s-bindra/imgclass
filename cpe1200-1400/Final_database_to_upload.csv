@@ -1,0 +1,88 @@
+Problem,Contest,Index,Tags,solvedCount
+Equalize,1037,C,"dp, greedy, strings",17663
+Get an Even String,1660,C,"dp, greedy, strings",17631
+Two Round Dances,1433,E,"combinatorics, math",17296
+Array and Operations,1618,D,"dp, greedy, math",17171
+Binary String To Subsequences,1399,D,"constructive algorithms, data structures, greedy, implementation",16929
+Game With Array,1355,D,"constructive algorithms, math",16908
+Canine poetry,1466,C,"dp, greedy, strings",16748
+Big Vova,1407,B,"brute force, greedy, math, number theory",16173
+Strong Vertices,1857,D,"math, sortings, trees",15716
+Strong Vertices,1857,D,"math, sortings, trees",15714
+Phoenix and Towers,1515,C,"constructive algorithms, data structures, greedy",15653
+Unstable String,1535,C,"binary search, dp, greedy, implementation, strings, two pointers",15364
+Palindromes Coloring,1624,D,"binary search, greedy, sortings, strings",15200
+Permutation Partitions,1326,C,"combinatorics, greedy, math",14906
+Maximum width,1492,C,"binary search, data structures, dp, greedy, two pointers",14868
+String Equality,1451,C,"dp, greedy, hashing, implementation, strings",14614
+Diverse Garland,1108,D,"constructive algorithms, dp, greedy",14316
+Ice Cream Balls,1862,D,"binary search, combinatorics, constructive algorithms, math",14086
+Ice Cream Balls,1862,D,"binary search, combinatorics, constructive algorithms, math",14085
+Good Array,1077,C,,14081
+Qpwoeirut And The City,1706,C,"dp, flows, greedy, implementation",13563
+Lose it!,1176,C,"dp, greedy, implementation",13453
+Good Subarrays (Easy Version),1736,C1,"binary search, data structures, schedules, two pointers",13393
+Particles,1844,C,"dp, greedy, implementation, math",13387
+Particles,1844,C,"dp, greedy, implementation, math",13387
+Sweets Eating,1253,C,"dp, greedy, math, sortings",13223
+Masha and a Beautiful Tree,1741,D,"dfs and similar, divide and conquer, graphs, sortings, trees",13147
+Increase Subarray Sums,1644,C,"brute force, dp, greedy, implementation",12822
+Absolute Sorting,1772,D,"constructive algorithms, math",12808
+Boxers,1203,E,"greedy, sortings",12781
+Vlad and a Pair of Numbers,1790,E,"bitmasks, constructive algorithms",12731
+Prefix Permutation Sums,1851,D,"implementation, math",12682
+Backspace,1553,D,"dp, greedy, strings, two pointers",12660
+Take Your Places!,1556,B,implementation,12174
+Fighting Tournament,1719,C,"binary search, data structures, implementation, two pointers",12116
+Restoring the Permutation,1506,E,"constructive algorithms, implementation",12046
+Make it Alternating,1879,C,"combinatorics, dp, greedy",11945
+Make it Alternating,1879,C,"combinatorics, dp, greedy",11944
+Chat Online,469,B,implementation,11917
+Strong Password,1845,C,"binary search, dp, greedy, strings",11862
+Strong Password,1845,C,"binary search, dp, greedy, strings",11862
+Magic Powder - 2,670,D2,"binary search, implementation",11745
+Filling the Grid,1228,B,"implementation, math",11106
+Divisor Chain,1864,C,"bitmasks, constructive algorithms, math, number theory",11021
+"Vampiric Powers, anyone?",1847,C,"bitmasks, brute force, dp, greedy",10986
+Fishingprince Plays With Array,1696,C,"constructive algorithms, greedy, implementation, math",10824
+Tiles,1178,C,"combinatorics, greedy, math",10736
+Game on Permutation,1860,C,"data structures, dp, games, greedy",10683
+Game on Permutation,1860,C,"data structures, dp, games, greedy",10682
+Palindrome Basis,1673,C,"brute force, dp, math, number theory",10590
+Sum on Subarrays,1809,C,"constructive algorithms, greedy, math",10570
+Archer,312,B,"math, probabilities",10561
+Pull Your Luck,1804,C,"brute force, greedy, math, number theory",10513
+Rubik's Cube Coloring (easy version),1594,E1,"combinatorics, math",10493
+Swap Letters,1215,C,"constructive algorithms, greedy",10459
+Interview,1807,E,"binary search, implementation, interactive",10410
+Binary Search,1436,C,"binary search, combinatorics",10237
+Power of Points,1857,E,"math, sortings",10007
+Candies!,1189,C,"data structures, dp, implementation, math",9988
+Ayoub and Lost Array,1105,C,"combinatorics, dp, math",9796
+Skyscrapers (easy version),1313,C1,"brute force, data structures, dp, greedy",9735
+Data Structures Fan,1872,E,"binary search, bitmasks, data structures, dp",9711
+Even Number Addicts,1738,C,"dp, games, greedy, math",9657
+Labs,1236,C,"constructive algorithms, greedy, implementation",9588
+The Walkway,1858,B,"brute force, dp, greedy, math, number theory",9448
+The Walkway,1858,B,"brute force, dp, greedy, math, number theory",9446
+Salyg1n and the MEX Game,1867,C,"constructive algorithms, data structures, games, greedy, interactive",9436
+Salyg1n and the MEX Game,1867,C,"constructive algorithms,data structures, games, greedy, interactive",9436
+Gas Pipeline,1207,C,"dp, greedy",9260
+Pride,891,A,"brute force, dp, greedy, math, number theory",9179
+Colorful Table,1870,C,"binary search, data structures, dp, implementation, math, two pointers",9118
+Colorful Table,1870,C,"binary search, data structures, dp, implementation, math, two pointers",9117
+Vasya and Multisets,1051,C,"brute force, dp, greedy, implementation, math",8919
+Homecoming,1315,B,"binary search, dp, greedy, strings",8752
+Maximum splitting,870,C,"dp, greedy, math, number theory",8688
+Playoff,1767,D,"combinatorics, constructive algorithms, dp, greedy, math",8680
+Simple Strings,665,C,"dp, greedy, strings",8392
+Discrete Acceleration,1408,C,"binary search, dp, implementation, math, two pointers",8374
+Mike and Fun,548,B,"brute force, dp, greedy, implementation",8060
+Ehab and a 2-operation task,1088,C,"constructive algorithms, greedy, math",7796
+K-Dominant Character,888,C,"binary search, implementation, two pointers",7627
+Paint the Digits,1209,C,"constructive algorithms, greedy, implementation",7067
+Bishwock,991,D,"dp, greedy",6728
+Bubble Sort Graph,340,D,"binary search, data structures, dp",6711
+Smallest Word,1043,C,"constructive algorithms, greedy, implementation",6600
+Glass Carving,527,C,"binary search, data structures, implementation",6469
+Did you mean...,858,C,"dp, greedy, implementation",5318

@@ -1,0 +1,101 @@
+Problem,Contest,Index,Tags,solvedCount
+Traps,1684.0,D,"constructive algorithms, greedy, sortings",8810
+Count The Blocks,1327.0,E,"combinatorics, dp, math",8226
+MEX and Increments,1619.0,E,"constructive algorithms, data structures, dp, greedy, implementation, math, sortings",8097
+Slime,1038.0,D,"dp, greedy, implementation",7872
+Task On The Board,1367.0,D,"constructive algorithms, greedy, implementation, sortings",7755
+Replace the Numbers,1620.0,E,"constructive algorithms, data structures, dsu, implementation",7215
+A/B Matrix,1360.0,G,"constructive algorithms, greedy, math",7169
+Yet Another Monster Killing Problem,1257.0,D,"binary search, data structures, dp, greedy, sortings, two pointers",7017
+"Rock, Paper, Scissors",1426.0,E,"brute force, constructive algorithms, flows, greedy, math",6934
+Boris and His Amazing Haircut,1779.0,D,"constructive algorithms, data structures, dp, dsu, greedy, sortings",6904
+String Coloring (easy version),1296.0,E1,"constructive algorithms, dp, graphs, greedy, sortings",6763
+Array Painting,1849.0,D,"constructive algorithms, greedy, two pointers",6747
+Zookeeper and The Infinite Zoo,1491.0,D,"bitmasks, constructive algorithms, dp, greedy, math",6563
+K-periodic Garland,1353.0,E,"brute force, dp, greedy",6537
+Climbing the Tree,1810.0,D,"binary search, math",6480
+Climbing the Tree,1810.0,D,"binary search, math",6472
+Gambling,1692.0,H,"data structures, dp, greedy, math",6392
+New Year and the Permutation Concatenation,1091.0,D,"combinatorics, dp, math",6370
+Beautiful Array,1155.0,D,"brute force, data structures, divide and conquer, dp, greedy",6361
+Tree with Maximum Cost,1092.0,F,"dfs and similar, dp, trees",6311
+Extra Element,1185.0,D,"implementation, math",6277
+Lucky Permutation,1768.0,D,"constructive algorithms, dfs and similar, graphs, greedy",6126
+Superhero Battle,1141.0,E,math,6060
+Three Bags,1467.0,C,"constructive algorithms, greedy",6020
+Relatively Prime Graph,1009.0,D,"brute force, constructive algorithms, graphs, greedy, math",6013
+1-2-K Game,1194.0,D,"games, math",5991
+New Year Parties,1283.0,E,"dp, greedy",5973
+Don't Blame Me,1829.0,H,"bitmasks, combinatorics, dp, math",5955
+Shortest and Longest LIS,1304.0,D,"constructive algorithms, graphs, greedy, two pointers",5899
+Vasya And Array,1187.0,C,"constructive algorithms, greedy, implementation",5892
+Rudolf and Snowflakes (hard version),1846.0,E2,"binary search, brute force, implementation, math",5845
+Skyscrapers (hard version),1313.0,C2,"data structures, dp, greedy",5831
+Andrey and Escape from Capygrad,1859.0,D,"binary search, data structures, dp, dsu, greedy, sortings",5820
+Maximum AND,1721.0,D,"bitmasks, dfs and similar, divide and conquer, greedy, sortings",5797
+Genius's Gambit,1492.0,D,"bitmasks, constructive algorithms, greedy, math",5729
+Balanced Removals (Easier),1237.0,C1,"constructive algorithms, geometry, greedy",5725
+Magic Ship,1117.0,C,binary search,5706
+Cyclic Rotation,1672.0,D,"constructive algorithms, greedy, implementation, two pointers",5696
+Vus the Cossack and Strings,1186.0,C,"implementation, math",5685
+Matrix Cascade,1864.0,D,"brute force, constructive algorithms, data structures, dp, greedy, math",5669
+Matrix Cascade,1864.0,D,"brute force, constructive algorithms, data structures, dp, greedy, math",5656
+Nearest Beautiful Number (easy version),1560.0,F1,"binary search, bitmasks, brute force, constructive algorithms, dfs and similar, greedy",5620
+Santa's Bot,1279.0,D,"combinatorics, math, probabilities",5606
+Education,1512.0,F,"brute force, dp, greedy, implementation",5603
+Prefix Purchase,1870.0,D,"greedy, implementation, sortings",5492
+River Locks,1700.0,D,"binary search, dp, greedy, math",5482
+Prefix Purchase,1870.0,D,"greedy, implementation, sortings",5470
+Fixed Prefix Permutations,1792.0,D,"binary search, bitmasks, data structures, hashing, math, sortings",5432
+Salary Changing,1251.0,D,"binary search, greedy, sortings",5373
+XOR Guessing,1207.0,E,"bitmasks, interactive, math",5349
+Sum of XOR Functions,1879.0,D,"bitmasks, combinatorics, divide and conquer, dp, math",5287
+Sum of XOR Functions,1879.0,D,"bitmasks, combinatorics, divide and conquer, dp, math",5249
+Binary String Sorting,1809.0,D,"constructive algorithms, greedy",5248
+Tree Cutting (Easy Version),1118.0,F1,"dfs and similar, trees",5225
+Array Splitting,1175.0,D,"greedy, sortings",5219
+Old Floppy Drive ,1490.0,G,"binary search, data structures, math",5178
+Sorting By Multiplication,1861.0,D,"dp, greedy",5169
+Sorting By Multiplication,1861.0,D,"dp, greedy",5149
+Stars Drawing (Easy Edition),1015.0,E1,"brute force, dp, greedy",5119
+Boxes Packing,1066.0,D,"binary search, implementation",5085
+Omkar and the Meaning of Life,1583.0,D,"constructive algorithms, greedy, interactive",5066
+Fox And Jumping,510.0,D,"bitmasks, brute force, dp, math",4929
+Counting Arrays,1749.0,D,"combinatorics, dp, math, number theory",4883
+Complete Tripartite,1228.0,D,"brute force, constructive algorithms, graphs, hashing, implementation",4847
+Riding in a Lift,479.0,E,"combinatorics, dp",4830
+Korney Korneevich and XOR (easy version),1582.0,F1,"bitmasks, dp, greedy",4819
+Gardening Friends,1822.0,F,"brute force, dfs and similar, dp, graphs, trees",4791
+Treasure Island,1214.0,D,"dfs and similar, dp, flows, hashing",4764
+Dirty Deeds Done Dirt Cheap,1148.0,D,"greedy, sortings",4713
+Design Tutorial: Inverse the Problem,472.0,D,"dfs and similar, dsu, shortest paths, trees",4624
+Vlad and Unfinished Business,1675.0,F,"dfs and similar, dp, greedy, trees",4602
+Too Many Segments (hard version),1249.0,D2,"data structures, greedy, sortings",4574
+Cyclic Operations,1867.0,D,"brute force, constructive algorithms, dfs and similar, graphs, greedy, implementation",4537
+One-Dimensional Battle Ships,567.0,D,"binary search, data structures, greedy, sortings",4475
+Clique Problem,527.0,D,"data structures, dp, greedy, implementation, sortings",4455
+1870_,,D,"dfs and similar, dp, trees",4234
+PermuTree (easy version),1856.0,E1,"dfs and similar, dp, trees",4224
+MEX Sequences,1613.0,D,"dp, math",4197
+The Intriguing Obsession,869.0,C,"combinatorics, dp, math",4189
+Thematic Contests,1077.0,E,"greedy, sortings",4182
+Chloe and pleasant prizes,743.0,D,"dfs and similar, dp, graphs, trees",4135
+Robot Vacuum Cleaner,922.0,D,"greedy, sortings",4016
+Petya's Exams,978.0,G,"greedy, implementation, sortings",4002
+Teleporters (Hard Version),1791.0,G2,"binary search, greedy, sortings",3990
+Checkpoints,1453.0,D,"brute force, constructive algorithms, greedy, math, probabilities",3989
+Hexagons,1421.0,D,"brute force, constructive algorithms, greedy, implementation, math, shortest paths",3973
+Rescheduling the Exam,1650.0,E,"binary search, data structures, greedy, implementation, math, sortings",3809
+Dima and Hares,358.0,D,"dp, greedy",3706
+Tenzing and His Animal Friends ,1842.0,D,"constructive algorithms, graphs, greedy",3576
+A Game with Traps,1260.0,D,"binary search, dp, greedy, sortings",3501
+The Union of k-Segments,612.0,D,"greedy, sortings",3468
+Escape The Maze (hard version),1611.0,E2,"dfs and similar, dp, greedy, shortest paths, trees",3389
+Tokitsukaze and Two Colorful Tapes,1677.0,C,"constructive algorithms, dfs and similar, graphs, greedy",3146
+Two Chess Pieces,1774.0,E,"dfs and similar, dp, greedy, trees",3091
+Bookshelves,981.0,D,"bitmasks, dp, greedy",3087
+Animals,35.0,D,"dp, greedy",2949
+Music Festival,1801.0,C,"binary search, data structures, dp, greedy, sortings",2848
+Spanning Tree with One Fixed Degree,1133.0,F2,"constructive algorithms, dfs and similar, dsu, graphs, greedy",2649
+Segments,22.0,D,"greedy, sortings",2475
+Handshakes,534.0,D,"binary search, constructive algorithms, data structures, greedy",2318
